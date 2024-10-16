@@ -1,0 +1,54 @@
+services:
+  basic-upload-resources:
+    build:
+      context: ./basic-upload-resources
+      dockerfile: Dockerfile
+    image: basic-upload-resources-build
+    depends_on:
+      - db
+    volumes:
+      - resources-jar:/output
+    healthcheck:
+      test: ["CMD", "test", "-f", "/output/basic-upload-resources-1.0-SNAPSHOT.jar"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  frontend:
+    build: ./basic-upload-app
+    ports:
+      - "3000:3000"
+
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: mydatabase
+    ports:
+      - "5432:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+      - ./postgres-db/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    environment:
+      - DATABASE_URL=jdbc:postgresql://db:5432/mydatabase
+      - DATABASE_USER=user
+      - DATABASE_PASSWORD=password
+    volumes:
+      - /home/jacob/.m2:/root/.m2
+      - /home/jacob/dev/basic-upload/uploaded_files:/usr/src/app/uploaded_files
+    command: ["java", "-jar", "basic-upload-service.jar"]
+
+
+volumes:
+  db-data:
+  resources-jar:

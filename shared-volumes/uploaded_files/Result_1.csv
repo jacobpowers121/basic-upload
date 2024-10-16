@@ -1,0 +1,4294 @@
+city_name,state,is_saturated,difference
+Aberdeen,South Dakota,true,-771
+Aberdeen,Washington,true,-947
+Abilene,Texas,true,-661
+Abingdon,Virginia,true,-593
+Abiquiu,New Mexico,true,-619
+Accord,New York,true,-1559
+Acworth,Georgia,true,-758
+Addison,Texas,true,-100
+Afton,Oklahoma,true,-755
+Afton,Virginia,true,-653
+Afton,Wyoming,true,-206
+Agoura Hills,California,true,-2105
+Ahoskie,North Carolina,true,-294
+Ahwahnee,California,true,-967
+Aiken,South Carolina,true,-41
+Akron,Ohio,true,-376
+Alachua,Florida,true,-665
+Alameda,California,true,-672
+Alamogordo,New Mexico,true,-969
+Alamosa,Colorado,true,-375
+Alanson,Michigan,true,-1480
+Albany,California,true,-1565
+Albany,Georgia,true,-340
+Albany,New York,true,-393
+Albany,Oregon,true,-1856
+Albert Lea,Minnesota,true,-523
+Albion,California,false,1
+Albrightsville,Pennsylvania,true,-1568
+Albuquerque,New Mexico,true,-787
+Alburgh,Vermont,true,-37
+Alexander,North Carolina,true,-744
+Alexander City,Alabama,true,-166
+Alexandria,Louisiana,true,-192
+Alexandria,Minnesota,true,-1389
+Alexandria,Virginia,true,-485
+Alexandria Bay,New York,false,446
+Algoma,Wisconsin,true,-1687
+Alhambra,California,false,3794
+Aliso Viejo,California,true,-883
+Allen,Texas,true,-1020
+Allentown,Pennsylvania,true,-281
+Alligator Point,Florida,true,-623
+Allouez Township,Michigan,true,-127
+Alma,Colorado,true,-1519
+Almond,North Carolina,true,-1051
+Aloha,Oregon,true,-1042
+Alpena,Michigan,true,-1515
+Alpharetta,Georgia,false,4400
+Alpine,California,true,-2067
+Alpine,Texas,true,-255
+Alpine,Wyoming,true,-1541
+Alpine Meadows,California,false,618
+Altadena,California,true,-316
+Altamont,Tennessee,true,-1444
+Altamonte Springs,Florida,true,-394
+Altmar,New York,true,-469
+Alto,New Mexico,true,-1524
+Alton,Illinois,true,-908
+Alton,New Hampshire,true,-1513
+Alton,Utah,true,-796
+Altoona,Pennsylvania,true,-317
+Amagansett,New York,true,-7721
+Amarillo,Texas,true,-538
+Amelia Island,Florida,true,-118
+American Fork,Utah,true,-452
+Ames,Iowa,true,-44
+Amherst,Massachusetts,true,-357
+Amherst,Virginia,true,-262
+Ammon,Idaho,true,-280
+Anaconda,Montana,true,-788
+Anacortes,Washington,true,-811
+Anaheim,California,true,-316
+Anchorage,Alaska,true,-421
+Anchor Point,Alaska,true,-377
+Anderson,California,true,-215
+Anderson,Indiana,true,-120
+Anderson,South Carolina,true,-738
+Anderson Island,Washington,true,-1712
+Andes,New York,true,-1100
+Andrews,North Carolina,true,-555
+Angel Fire,New Mexico,true,-591
+Angels Camp,California,true,-87
+Angola,Indiana,true,-232
+Angola,New York,true,-318
+Ankeny,Iowa,true,-797
+Anna Maria,Florida,false,1887
+Annandale,Minnesota,true,-1473
+Annandale,Virginia,true,-344
+Annapolis,Maryland,true,-997
+Ann Arbor,Michigan,true,-903
+Anniston,Alabama,false,415
+Annville,Pennsylvania,true,-1353
+Antioch,California,true,-357
+Antioch,Illinois,true,-1095
+Apache Junction,Arizona,true,-5
+Apalachicola,Florida,true,-128
+Apex,North Carolina,true,-411
+Apollo Beach,Florida,true,-434
+Apopka,Florida,true,-466
+Appleton,Wisconsin,true,-891
+Apple Valley,California,true,-144
+Apple Valley,Utah,true,-239
+Appomattox,Virginia,true,-3235
+Aptos,California,true,-703
+Arabi,Louisiana,true,-174
+Aransas Pass,Texas,true,-594
+Arcadia,California,true,-739
+Arcadia,Florida,false,72
+Arcata,California,true,-301
+Arch Cape,Oregon,true,-3026
+Arden,North Carolina,true,-1181
+Ardmore,Oklahoma,true,-831
+Arizona City,Arizona,true,-152
+Arkdale,Wisconsin,true,-1014
+Arkville,New York,true,-953
+Arley,Alabama,true,-534
+Arlington,Massachusetts,true,-419
+Arlington,Texas,true,-486
+Arlington,Virginia,true,-972
+Arlington,Washington,true,-1589
+Arnold,California,true,-421
+Arnold,Maryland,true,-1484
+Arnolds Park,Iowa,true,-1088
+Arroyo Grande,California,true,-600
+Arroyo Seco,New Mexico,true,-352
+Artesia,New Mexico,false,38
+Arundel,Maine,true,-656
+Arvada,Colorado,true,-1088
+Asbury Park,New Jersey,true,-1723
+Ashburn,Virginia,true,-138
+Asheboro,North Carolina,true,-573
+Asheville,North Carolina,true,-916
+Ashford,Washington,true,-1607
+Ashland,Kentucky,true,-611
+Ashland,New Hampshire,true,-911
+Ashland,Ohio,true,-397
+Ashland,Oregon,true,-1357
+Ashland,Wisconsin,true,-1303
+Ashland City,Tennessee,true,-333
+Ashtabula,Ohio,true,-644
+Ashton,Idaho,true,-629
+Ashville,New York,true,-864
+Ashwaubenon,Wisconsin,true,-2621
+Aspen,Colorado,false,6
+Astor,Florida,false,183
+Astoria,New York,true,-1066
+Astoria,Oregon,true,-994
+Atascadero,California,true,-1236
+Athens,Alabama,true,-299
+Athens,Georgia,true,-1249
+Athens,New York,true,-2325
+Athens,Ohio,true,-438
+Athens,Texas,true,-92
+Atlanta,Georgia,true,-453
+Atlantic Beach,Florida,true,-612
+Atlantic Beach,North Carolina,true,-337
+Atlantic Beach,South Carolina,true,-332
+Atlantic City,New Jersey,true,-1320
+Aubrey,Texas,true,-889
+Auburn,Alabama,true,-1344
+Auburn,California,true,-582
+Auburn,Maine,true,-410
+Auburn,New York,true,-873
+Auburn,Washington,true,-443
+Auburndale,Florida,true,-233
+Augusta,Georgia,false,567
+Augusta,Maine,true,-854
+Aurora,Colorado,true,-572
+Aurora,Illinois,true,-519
+Aurora,New York,true,-2207
+Austell,Georgia,true,-489
+Austin,Pennsylvania,true,-272
+Austin,Texas,true,-499
+Au Train,Michigan,true,-1718
+Avalon,California,true,-1487
+Avalon,New Jersey,true,-1041
+Aventura,Florida,true,-442
+Avila Beach,California,true,-704
+Avinger,Texas,true,-292
+Avon,Colorado,false,1269
+Avon,North Carolina,true,-707
+Avondale,Arizona,true,-615
+Avon Park,Florida,false,221
+Azle,Texas,true,-1080
+Azusa,California,true,-950
+Babb,Montana,true,-848
+Bacliff,Texas,true,-466
+Bailey,Colorado,true,-577
+Baileys Harbor,Wisconsin,true,-1533
+Bainbridge,Georgia,true,-438
+Bainbridge Island,Washington,true,-1082
+Baker City,Oregon,true,-196
+Bakersfield,California,true,-391
+Bakersville,North Carolina,true,-651
+Bald Head Island,North Carolina,true,-2315
+Baldwin,Michigan,true,-280
+Baldwin Park,California,true,-250
+Baldwinsville,New York,true,-581
+Bal Harbour,Florida,true,-657
+Ballston Spa,New York,true,-148
+Ballwin,Missouri,true,-557
+Baltimore,Maryland,true,-413
+Bandera,Texas,true,-430
+Bandon,Oregon,true,-1260
+Bangor,Maine,true,-822
+Banner Elk,North Carolina,true,-1659
+Baraboo,Wisconsin,true,-1154
+Bardstown,Kentucky,true,-13
+Bar Harbor,Maine,true,-942
+Baring,Washington,true,-1203
+Barnardsville,North Carolina,true,-1109
+Barnstable,Massachusetts,true,-1499
+Barnstead,New Hampshire,true,-1800
+Barre,Vermont,true,-199
+Barrett Township,Pennsylvania,true,-809
+Barryville,New York,true,-812
+Bartlesville,Oklahoma,true,-211
+Bartlett,New Hampshire,true,-799
+Basalt,Colorado,true,-1417
+Bass Lake,California,true,-503
+Bastrop,Texas,true,-459
+Basye,Virginia,true,-469
+Batesville,Arkansas,true,-419
+Bath,Maine,true,-1100
+Baton Rouge,Louisiana,true,-535
+Battle Creek,Michigan,false,22
+Battle Ground,Washington,true,-533
+Baxter,Tennessee,true,-1797
+Bay City,Michigan,true,-435
+Bay City,Oregon,true,-1383
+Bay City,Texas,true,-560
+Bayfield,Colorado,true,-565
+Bayfield,Wisconsin,true,-1358
+Bay Harbor Islands,Florida,true,-4860
+Bayonne,New Jersey,true,-725
+Bay Saint Louis,Mississippi,true,-606
+Bay Shore,New York,false,938
+Baytown,Texas,true,-570
+Bayview,Idaho,true,-1064
+Baywood-los Osos,California,true,-468
+Beach Haven,New Jersey,true,-2164
+Beacon,New York,true,-518
+Bean Station,Tennessee,true,-993
+Bearsville,New York,true,-2422
+Bear Valley,California,true,-967
+Beattyville,Kentucky,true,-364
+Beaufort,North Carolina,true,-644
+Beaufort,South Carolina,true,-518
+Beaumont,Texas,true,-233
+Beaver,Utah,true,-546
+Beaver Creek,Colorado,false,7658
+Beaverton,Oregon,true,-455
+Becket,Massachusetts,true,-1676
+Beckley,West Virginia,true,-435
+Bedford,Pennsylvania,true,-987
+Bedford,Texas,true,-598
+Bedford,Virginia,true,-361
+Beech Mountain,North Carolina,true,-781
+Belfair,Washington,true,-2300
+Belfast,Maine,true,-1093
+Belgrade,Maine,true,-424
+Belgrade,Montana,true,-836
+Belhaven,North Carolina,true,-238
+Bellaire,Michigan,true,-1248
+Bella Vista,Arkansas,true,-524
+Belleair Beach,Florida,false,1398
+Bellefonte,Pennsylvania,false,28
+Belleville,Illinois,true,-762
+Belleville,New Jersey,true,-748
+Bellevue,Iowa,true,-579
+Bellevue,Kentucky,true,-252
+Bellevue,Nebraska,true,-229
+Bellevue,Washington,true,-1248
+Bellflower,California,true,-489
+Bellingham,Washington,true,-641
+Bellport,New York,true,-2453
+Bellville,Ohio,true,-587
+Bellville,Texas,true,-806
+Belmar,New Jersey,true,-1828
+Belmont,California,true,-1231
+Belmont,North Carolina,true,-1379
+Belton,Texas,true,-754
+Bemidji,Minnesota,true,-1471
+Bemus Point,New York,true,-1606
+Bend,Oregon,true,-1089
+Benicia,California,true,-316
+Bennington,Vermont,false,174
+Benton,Arkansas,true,-266
+Benton,Kentucky,true,-446
+Benton,Pennsylvania,true,-380
+Benton,Tennessee,true,-593
+Benton Harbor,Michigan,true,-1290
+Bentonville,Arkansas,true,-535
+Berea,Kentucky,true,-632
+Berea,Ohio,true,-653
+Berkeley,California,true,-501
+Berkeley Springs,West Virginia,true,-941
+Berkeley Township,New Jersey,true,-658
+Berlin,Maryland,true,-400
+Berlin,New Hampshire,true,-835
+Berlin,Ohio,true,-890
+Bermuda Dunes,California,true,-405
+Berrien Springs,Michigan,true,-1283
+Berthoud,Colorado,false,579
+Berwyn,Illinois,true,-1195
+Bessemer,Michigan,true,-108
+Bethany Beach,Delaware,false,1408
+Bethel,Maine,false,169
+Bethesda,Maryland,true,-759
+Bethlehem,New Hampshire,true,-1162
+Bethlehem,Pennsylvania,true,-810
+Bettendorf,Iowa,true,-475
+Beulah,Michigan,true,-1265
+Beverly,Massachusetts,true,-1148
+Beverly Hills,California,true,-1304
+Biddeford,Maine,false,149
+Big Bear,California,true,-564
+Big Bear City,California,true,-377
+Big Bear Lake,California,false,897
+Big Canoe,Georgia,true,-1869
+Bigfork,Montana,true,-1043
+Big Indian,New York,true,-499
+Big Lake,Alaska,false,546
+Big Pine Key,Florida,false,466
+Big Sky,Montana,false,535
+Big Spring,Texas,true,-967
+Big Timber,Montana,true,-1204
+Billings,Montana,true,-645
+Biloxi,Mississippi,true,-289
+Binghamton,New York,true,-171
+Birchwood,Wisconsin,true,-1527
+Bird In Hand,Pennsylvania,true,-680
+Birmingham,Alabama,true,-566
+Birmingham,Michigan,true,-1293
+Bisbee,Arizona,true,-155
+Biscayne Park,Florida,true,-3431
+Bishop,California,false,317
+Bismarck,Arkansas,true,-281
+Bismarck,North Dakota,true,-265
+Biwabik,Minnesota,true,-719
+Black Butte Ranch,Oregon,true,-1012
+Black Hawk,Colorado,true,-1385
+Black Mountain,North Carolina,true,-1262
+Black River Falls,Wisconsin,true,-101
+Blacksburg,Virginia,false,830
+Blaine,Washington,true,-995
+Blairsville,Georgia,true,-901
+Blakeslee,Pennsylvania,true,-1700
+Blanco,Texas,true,-1129
+Blanding,Utah,true,-783
+Bloomfield,Connecticut,false,17
+Bloomington,Illinois,true,-392
+Bloomington,Indiana,true,-565
+Bloomsburg,Pennsylvania,true,-708
+Blowing Rock,North Carolina,true,-1873
+Blue Eye,Missouri,true,-1678
+Bluefield,West Virginia,true,-376
+Blue Hill,Maine,true,-418
+Bluemont,Virginia,true,-703
+Blue Ridge,Georgia,true,-1362
+Blue River,Colorado,false,191
+Bluffdale,Utah,true,-669
+Bluffton,South Carolina,true,-227
+Boalsburg,Pennsylvania,true,-1401
+Boca Grande,Florida,false,2080
+Boca Raton,Florida,true,-855
+Bodega Bay,California,true,-1253
+Boerne,Texas,true,-361
+Boise,Idaho,true,-776
+Bokeelia,Florida,true,-190
+Bolinas,California,true,-2860
+Bolivar,West Virginia,true,-632
+Bolivar Peninsula,Texas,true,-1124
+Bolton,New York,true,-2525
+Bonita,California,true,-343
+Bonita Springs,Florida,true,-143
+Bonners Ferry,Idaho,true,-766
+Boone,Iowa,true,-395
+Boone,North Carolina,true,-1592
+Boothbay,Maine,true,-95
+Boothbay Harbor,Maine,true,-615
+Borrego Springs,California,true,-90
+Bossier City,Louisiana,true,-383
+Boston,Massachusetts,true,-1265
+Bothell,Washington,true,-844
+Boulder,Colorado,true,-396
+Boulder Creek,California,false,676
+Bountiful,Utah,true,-509
+Bourbonnais,Illinois,true,-339
+Bourne,Massachusetts,true,-2017
+Bovina Center,New York,true,-1686
+Bow,Washington,true,-1049
+Bowie,Maryland,false,141
+Bowling Green,Kentucky,true,-653
+Bowling Green,Ohio,true,-536
+Boyne City,Michigan,true,-1627
+Boyne Falls,Michigan,true,-1640
+Boynton Beach,Florida,false,152
+Bozeman,Montana,true,-1182
+Bracey,Virginia,true,-1760
+Bradenton,Florida,false,517
+Bradenton Beach,Florida,false,1922
+Bradley,California,true,-1211
+Bradley Beach,New Jersey,true,-806
+Brainerd,Minnesota,true,-1111
+Branchport,New York,true,-638
+Brandon,Florida,true,-296
+Brandon,Mississippi,true,-561
+Branford,Connecticut,true,-468
+Branford,Florida,true,-473
+Branson,Missouri,true,-1318
+Branson West,Missouri,true,-1530
+Brattleboro,Vermont,true,-303
+Breaux Bridge,Louisiana,true,-251
+Breckenridge,Colorado,false,1898
+Breckenridge,Texas,false,97
+Bremerton,Washington,true,-1008
+Brenham,Texas,true,-378
+Brentwood,Tennessee,true,-538
+Bretton Woods,New Hampshire,true,-1409
+Brevard,North Carolina,true,-1188
+Brewster,Massachusetts,true,-2396
+Brian Head,Utah,true,-201
+Bridgehampton,New York,true,-7497
+Bridgeport,Connecticut,true,-178
+Bridgewater,Vermont,false,68
+Bridgman,Michigan,true,-965
+Bridgton,Maine,true,-1131
+Brigantine,New Jersey,true,-2242
+Brighton,Colorado,true,-353
+Brighton,Michigan,true,-1429
+Brighton,Utah,false,3001
+Brighton,Vermont,true,-14
+Brinnon,Washington,true,-974
+Bristol,Maine,true,-578
+Bristol,New Hampshire,true,-835
+Bristol,Rhode Island,true,-1151
+Bristol,Tennessee,true,-877
+Bristol,Virginia,true,-542
+Broadalbin,New York,true,-1244
+Broadway,Virginia,true,-603
+Broken Arrow,Oklahoma,false,85
+Broken Bow,Oklahoma,true,-1489
+Bronston,Kentucky,true,-1346
+Bronx,New York,true,-892
+Brookeland,Texas,false,430
+Brookings,Oregon,true,-827
+Brooklin,Maine,false,92
+Brookline,Massachusetts,true,-1745
+Brooklyn,New York,true,-1134
+Brooksville,Florida,false,149
+Brooksville,Maine,true,-1289
+Brooktondale,New York,false,246
+Broomfield,Colorado,true,-638
+Brownsville,Texas,true,-247
+Brownwood,Texas,true,-584
+Brunswick,Georgia,true,-929
+Brunswick,Maine,true,-1091
+Brunswick County,North Carolina,true,-569
+Bryan,Texas,true,-800
+Bryant,Alabama,true,-478
+Bryant,Arkansas,true,-524
+Bryn Mawr,Pennsylvania,true,-122
+Bryson City,North Carolina,true,-1222
+Buckeye,Arizona,true,-397
+Buckeye Lake,Ohio,true,-1307
+Bucksport,Maine,true,-1633
+Buda,Texas,true,-527
+Buena Vista,Colorado,true,-1206
+Buena Vista,Virginia,false,137
+Buffalo,New York,true,-767
+Buffalo,Wyoming,true,-828
+Buford,Georgia,true,-469
+Bullard,Texas,true,-636
+Bullhead City,Arizona,true,-582
+Bumpass,Virginia,false,304
+Burbank,California,true,-918
+Burdett,New York,true,-1293
+Burien,Washington,true,-796
+Burke,Vermont,true,-13
+Burkesville,Kentucky,true,-1053
+Burkeville,Texas,true,-495
+Burley,Idaho,true,-381
+Burlingame,California,true,-384
+Burlington,Iowa,true,-833
+Burlington,North Carolina,true,-1520
+Burlington,Vermont,true,-550
+Burlington,Wisconsin,true,-846
+Burnet,Texas,false,243
+Burnside,Kentucky,true,-1162
+Burnsville,North Carolina,true,-1080
+Burt,New York,true,-624
+Burton,Texas,false,155
+Bushkill,Pennsylvania,true,-1429
+Butler,Ohio,true,-774
+Butler,Tennessee,true,-1333
+Butte,Montana,true,-678
+Buxton,North Carolina,true,-677
+Byrdstown,Tennessee,true,-1057
+Cable,Wisconsin,true,-845
+Cadillac,Michigan,true,-1113
+Cadiz,Kentucky,true,-499
+Cairo,New York,true,-722
+Calabasas,California,true,-2411
+Calabash,North Carolina,true,-505
+Caldwell,Idaho,true,-370
+Caldwell,Texas,true,-801
+Calico Rock,Arkansas,false,45
+Calistoga,California,true,-1950
+Callicoon,New York,true,-1399
+Calumet Township,Michigan,true,-429
+Calverton,New York,true,-974
+Camano,Washington,true,-779
+Camano Island,Washington,true,-715
+Camarillo,California,true,-1198
+Camas,Washington,true,-685
+Cambria,California,true,-2658
+Cambridge,Maryland,true,-1383
+Cambridge,Massachusetts,true,-250
+Cambridge,New York,true,-1349
+Cambridge,Vermont,true,-663
+Camden,Maine,true,-1198
+Camden,South Carolina,true,-956
+Camdenton,Missouri,true,-749
+Campbell,California,true,-1095
+Campbellsville,Kentucky,true,-650
+Camp Connell,California,true,-236
+Camp Sherman,Oregon,true,-2002
+Campton,Kentucky,true,-445
+Campton,New Hampshire,true,-832
+Camp Verde,Arizona,true,-363
+Canaan,New York,true,-811
+Canadian,Oklahoma,true,-438
+Canandaigua,New York,true,-1447
+Canastota,New York,false,490
+Candler,North Carolina,true,-603
+Cane Beds,Arizona,true,-421
+Cannon Beach,Oregon,true,-466
+Cañon City,Colorado,true,-422
+Canton,Georgia,true,-560
+Canton,New York,false,366
+Canton,North Carolina,true,-941
+Canton,Ohio,true,-406
+Canton,Texas,true,-160
+Canyon,Texas,true,-351
+Canyon Lake,Texas,true,-850
+Cape Canaveral,Florida,false,111
+Cape Charles,Virginia,true,-814
+Cape Coral,Florida,false,234
+Cape Elizabeth,Maine,true,-2680
+Cape Girardeau,Missouri,true,-167
+Cape May,New Jersey,true,-1560
+Cape San Blas,Florida,false,973
+Cape Vincent,New York,true,-981
+Capitola,California,true,-1775
+Capitol Heights,Maryland,false,82
+Captain Cook,Hawaii,true,-303
+Captiva,Florida,false,8071
+Carbondale,Colorado,true,-515
+Carbondale,Illinois,true,-589
+Carlisle,Pennsylvania,true,-447
+Carlsbad,California,true,-880
+Carlsbad,New Mexico,true,-179
+Carlton,Oregon,true,-1240
+Carlton Landing,Oklahoma,false,30
+Carmel,California,true,-3043
+Carmel,Indiana,false,106
+Carmel-by-the-sea,California,true,-1608
+Carmel Valley,California,true,-857
+Carmichael,California,true,-674
+Carmine,Texas,false,140
+Carnegie,Pennsylvania,true,-697
+Carnelian Bay,California,true,-755
+Caroga Lake,New York,true,-586
+Carolina Beach,North Carolina,true,-1030
+Carpinteria,California,true,-843
+Carp Lake,Michigan,true,-451
+Carrabassett Valley,Maine,false,2071
+Carrabelle,Florida,true,-275
+Carrboro,North Carolina,true,-395
+Carroll,New Hampshire,true,-70
+Carrollton,Georgia,true,-450
+Carrollton,Texas,true,-728
+Carson,California,false,659
+Carson,Washington,true,-744
+Carson City,Nevada,true,-625
+Cartersville,Georgia,true,-625
+Cary,North Carolina,true,-426
+Casa Grande,Arizona,true,-169
+Cascade,Idaho,true,-1151
+Cascade,Montana,true,-884
+Cascade-chipita Park,Colorado,true,-1400
+Casco,Maine,true,-1713
+Caseville,Michigan,true,-1072
+Cashiers,North Carolina,true,-1801
+Casper,Wyoming,true,-751
+Castle Rock,Colorado,true,-1415
+Castleton,Vermont,false,337
+Castro Valley,California,true,-579
+Cathedral City,California,true,-302
+Catonsville,Maryland,true,-128
+Catskill,New York,true,-963
+Cave Creek,Arizona,true,-784
+Cavendish,Vermont,false,186
+Cayce,South Carolina,true,-1082
+Cayucos,California,true,-404
+Cazadero,California,false,147
+Cedar,Michigan,true,-1685
+Cedar Bluff,Alabama,true,-1271
+Cedarburg,Wisconsin,true,-600
+Cedar City,Utah,true,-603
+Cedar Creek,Texas,true,-1059
+Cedaredge,Colorado,true,-539
+Cedar Falls,Iowa,true,-689
+Cedar Hill,Texas,true,-318
+Cedar Key,Florida,true,-341
+Cedar Park,Texas,true,-802
+Cedar Rapids,Iowa,true,-1089
+Celebration,Florida,false,551
+Celina,Ohio,true,-585
+Celina,Tennessee,true,-900
+Celina,Texas,true,-1322
+Centennial,Colorado,true,-686
+Centennial,Wyoming,true,-857
+Center Point,Texas,false,172
+Central,South Carolina,true,-1398
+Central Lake,Michigan,false,44540
+Central Point,Oregon,true,-745
+Chagrin Falls,Ohio,true,-639
+Challis,Idaho,true,-510
+Chalmette,Louisiana,false,184
+Chambersburg,Pennsylvania,true,-693
+Champaign,Illinois,true,-516
+Champion,Pennsylvania,true,-417
+Championsgate,Florida,true,-1107
+Champions Gate,Florida,true,-1215
+Chandler,Arizona,true,-297
+Chandler,Texas,true,-489
+Chantilly,Virginia,true,-230
+Chanute,Kansas,false,143
+Chapel Hill,North Carolina,true,-659
+Chapin,South Carolina,true,-778
+Charlemont,Massachusetts,true,-597
+Charleston,South Carolina,true,-355
+Charleston,West Virginia,true,-459
+Charlestown,Rhode Island,true,-870
+Charles Town,West Virginia,true,-868
+Charlevoix,Michigan,true,-1839
+Charlotte,North Carolina,true,-867
+Charlotte,Vermont,false,177
+Charlottesville,Virginia,true,-841
+Chassell,Michigan,true,-13
+Chatham,Massachusetts,true,-1319
+Chatham,New York,true,-1911
+Chattanooga,Tennessee,true,-567
+Chaumont,New York,true,-443
+Cheboygan,Michigan,true,-1270
+Cheektowaga,New York,true,-398
+Chelan,Washington,true,-1538
+Chelsea,Massachusetts,true,-1015
+Cherokee,North Carolina,true,-168
+Cherokee Village,Arkansas,true,-215
+Cherry Hill,New Jersey,true,-619
+Cherry Log,Georgia,true,-1360
+Chesapeake,Virginia,false,243
+Chesapeake City,Maryland,true,-244
+Chester,California,true,-1523
+Chester,Vermont,true,-743
+Chesterfield,Virginia,true,-395
+Chesterton,Indiana,true,-1698
+Chestertown,Maryland,true,-1444
+Chestertown,New York,true,-686
+Chetek,Wisconsin,true,-517
+Chevy Chase,Maryland,true,-941
+Cheyenne,Wyoming,true,-722
+Chicago,Illinois,true,-909
+Chickamauga,Georgia,true,-994
+Chico,California,true,-636
+Chillicothe,Ohio,true,-809
+Chilmark,Massachusetts,true,-1394
+Chiloquin,Oregon,true,-598
+Chincoteague,Virginia,true,-833
+Chincoteague Island,Virginia,true,-963
+Chino,California,true,-996
+Chino Hills,California,true,-527
+Chippewa Falls,Wisconsin,true,-1195
+Christiansburg,Virginia,false,351
+Chula Vista,California,true,-3607
+Cibolo,Texas,true,-569
+Cincinnati,Ohio,true,-669
+Citrus Heights,California,true,-894
+Clackamas County,Oregon,true,-705
+Clare,Michigan,true,-483
+Claremont,California,true,-521
+Claremore,Oklahoma,true,-640
+Clarkdale,Arizona,true,-452
+Clarkesville,Georgia,true,-1059
+Clarksdale,Mississippi,true,-452
+Clarkston,Michigan,true,-219
+Clarkston,Washington,true,-379
+Clarksville,Arkansas,false,87
+Clarksville,Tennessee,true,-612
+Clarksville,Virginia,true,-1211
+Claysburg,Pennsylvania,true,-449
+Clayton,Georgia,true,-1318
+Clayton,Missouri,true,-1079
+Clayton,New York,true,-950
+Clayton,North Carolina,false,162
+Clearfield,Utah,true,-566
+Clearlake,California,true,-968
+Clear Lake,Iowa,true,-1008
+Clearlake Oaks,California,true,-704
+Clearwater,Florida,false,215
+Clearwater Beach,Florida,false,2110
+Cle Elum,Washington,true,-2722
+Clemson,South Carolina,true,-734
+Clermont,Florida,true,-566
+Cleveland,Georgia,true,-1364
+Cleveland,Ohio,true,-410
+Cleveland,South Carolina,true,-1473
+Cleveland,Tennessee,true,-495
+Cleveland Heights,Ohio,true,-494
+Clewiston,Florida,true,-326
+Clifton,Colorado,true,-754
+Clifton,New Jersey,true,-848
+Clifton,Texas,true,-200
+Clifton Park,New York,true,-331
+Clifton Township,Pennsylvania,true,-1746
+Clinton,Connecticut,true,-539
+Clinton,New York,true,-548
+Clinton,Washington,true,-1609
+Cloudcroft,New Mexico,true,-956
+Cloverdale,Oregon,true,-852
+Clovis,California,true,-692
+Clyde,North Carolina,true,-995
+Clymer,New York,true,-649
+Coachella,California,true,-270
+Coalville,Utah,true,-76
+Coarsegold,California,true,-379
+Coatesville,Pennsylvania,true,-1172
+Cocoa,Florida,false,189
+Cocoa Beach,Florida,false,354
+Coconino County,Arizona,true,-1060
+Cody,Wyoming,true,-820
+Coeur D'alene,Idaho,true,-1259
+Colbert,Washington,true,-728
+Colchester,Vermont,true,-360
+Coldspring,Texas,true,-160
+Cold Spring,New York,true,-1379
+Cold Springs,California,true,-195
+Coldwater,Michigan,true,-1240
+Colebrook,New Hampshire,true,-913
+Colfax,California,false,21
+College Park,Georgia,false,195
+College Place,Washington,true,-435
+College Station,Texas,true,-538
+Coloma,Michigan,true,-1503
+Colonial Beach,Virginia,true,-862
+Colorado Springs,Colorado,true,-781
+Columbia,Maryland,false,670
+Columbia,Missouri,true,-364
+Columbia,South Carolina,true,-753
+Columbia,Tennessee,true,-1702
+Columbia Falls,Montana,true,-1858
+Columbus,Georgia,true,-537
+Columbus,Indiana,true,-586
+Columbus,North Carolina,true,-910
+Columbus,Ohio,true,-676
+Comfort,Texas,true,-443
+Commerce City,Colorado,true,-370
+Compton,Arkansas,true,-604
+Concan,Texas,true,-1018
+Concord,California,true,-521
+Concord,New Hampshire,false,320
+Concord,North Carolina,true,-389
+Concrete,Washington,true,-709
+Conesus,New York,true,-667
+Confluence,Pennsylvania,true,-753
+Conifer,Colorado,true,-1230
+Conneaut,Ohio,true,-771
+Conneaut Lake,Pennsylvania,false,5296
+Conroe,Texas,true,-888
+Converse,Texas,true,-266
+Conway,Arkansas,true,-347
+Conway,New Hampshire,true,-941
+Conway,South Carolina,true,-1050
+Conyers,Georgia,true,-578
+Cooke City-silver Gate,Montana,false,107
+Cookeville,Tennessee,true,-676
+Cookson,Oklahoma,true,-405
+Coolbaugh Township,Pennsylvania,true,-1698
+Cooper Landing,Alaska,false,575
+Cooperstown,New York,false,144
+Coos Bay,Oregon,true,-703
+Copake,New York,true,-1439
+Copalis Beach,Washington,true,-962
+Copperas Cove,Texas,true,-534
+Copperhill,Tennessee,true,-906
+Copper Mountain,Colorado,true,-537
+Coral Gables,Florida,true,-611
+Coral Springs,Florida,false,17
+Coram,Montana,true,-2392
+Corinth,New York,true,-1713
+Corinth,Vermont,true,-474
+Cornelius,North Carolina,true,-3125
+Corning,New York,true,-538
+Cornish,Maine,false,603
+Cornville,Arizona,true,-212
+Cornwall,Connecticut,true,-1166
+Cornwall,New York,true,-4654
+Corolla,North Carolina,true,-1823
+Corona,California,true,-537
+Coronado,California,true,-901
+Corpus Christi,Texas,true,-700
+Corrales,New Mexico,true,-505
+Corsicana,Texas,false,281
+Cortez,Colorado,true,-616
+Cortland,New York,true,-240
+Corvallis,Montana,true,-400
+Corvallis,Oregon,true,-640
+Cosby,Tennessee,true,-1211
+Coshocton,Ohio,true,-709
+Costa Mesa,California,true,-959
+Cotopaxi,Colorado,true,-1309
+Cottage Grove,Oregon,true,-365
+Cotter,Arkansas,true,-283
+Cottonwood,Arizona,true,-301
+Cottonwood Heights,Utah,false,68
+Coudersport,Pennsylvania,true,-807
+Coulterville,California,false,896
+Counce,Tennessee,true,-33
+Council Bluffs,Iowa,true,-208
+Coupeville,Washington,true,-1585
+Coventry,Connecticut,true,-333
+Covina,California,true,-157
+Covington,Georgia,true,-258
+Covington,Kentucky,true,-582
+Covington,Louisiana,true,-897
+Covington,Virginia,true,-203
+Coxsackie,New York,true,-4762
+Crane Hill,Alabama,false,48
+Cranston,Rhode Island,true,-518
+Craryville,New York,true,-1585
+Crawfordville,Florida,true,-483
+Creede,Colorado,true,-475
+Creola,Ohio,true,-1470
+Crescent,Oregon,true,-728
+Crescent City,California,true,-273
+Crescent City,Florida,true,-274
+Cresco,Pennsylvania,true,-1544
+Crested Butte,Colorado,true,-527
+Crestline,California,true,-884
+Crestone,Colorado,false,2803
+Cripple Creek,Colorado,true,-1038
+Crivitz,Wisconsin,true,-759
+Crosby,Minnesota,true,-1050
+Cross Hill,South Carolina,true,-504
+Crosslake,Minnesota,true,-1262
+Crossville,Tennessee,true,-479
+Crozet,Virginia,true,-1443
+Crumpler,North Carolina,true,-757
+Crystal Beach,Texas,true,-1419
+Crystal River,Florida,true,-405
+Cudjoe Key,Florida,false,913
+Cullman,Alabama,false,119
+Cullowhee,North Carolina,true,-1577
+Culpeper,Virginia,true,-421
+Culver,Indiana,false,202
+Culver City,California,true,-1028
+Cumberland,Maryland,true,-805
+Cumming,Georgia,true,-1358
+Cupertino,California,true,-1212
+Custer,South Dakota,true,-710
+Cutchogue,New York,true,-2808
+Cutler Bay,Florida,false,16
+Cypress,Texas,true,-592
+Dade City,Florida,true,-342
+Dadeville,Alabama,true,-598
+Dahlonega,Georgia,true,-1052
+Dallas,Georgia,false,13016
+Dallas,Texas,true,-877
+Dalton,Georgia,true,-627
+Daly City,California,true,-457
+Damariscotta,Maine,true,-1309
+Damascus,Virginia,true,-873
+Dana Point,California,true,-1701
+Danbury,Connecticut,true,-666
+Danbury,Wisconsin,true,-417
+Dandridge,Tennessee,true,-1343
+Dania Beach,Florida,true,-882
+Danville,Kentucky,true,-609
+Danville,Virginia,true,-478
+Daphne,Alabama,true,-378
+Darby,Montana,true,-367
+Dardanelle,Arkansas,true,-112
+Darien,Georgia,false,1147
+Dartmouth,Massachusetts,true,-1388
+Daufuskie Island,South Carolina,true,-1985
+Dauphin Island,Alabama,false,244
+Davenport,Florida,true,-711
+Davenport,Iowa,true,-399
+Davidson,North Carolina,true,-428
+Davie,Florida,true,-845
+Davis,California,false,161
+Davis,Oklahoma,true,-53
+Davis,West Virginia,true,-123
+Dawsonville,Georgia,true,-1398
+Dayton,Ohio,true,-373
+Dayton,Tennessee,true,-994
+Dayton,Virginia,true,-664
+Daytona Beach,Florida,false,845
+Daytona Beach Shores,Florida,false,548
+Deadwood,South Dakota,true,-1006
+Deale,Maryland,true,-2683
+Dearborn,Michigan,true,-619
+Dearborn Heights,Michigan,true,-864
+Decatur,Alabama,true,-285
+Decatur,Georgia,true,-181
+Decatur,Illinois,true,-614
+Decorah,Iowa,true,-376
+Deep Gap,North Carolina,true,-576
+Deerfield Beach,Florida,true,-411
+Deer Isle,Maine,true,-1082
+Deerwood,Minnesota,true,-1240
+Deland,Florida,true,-46
+Delavan,Wisconsin,true,-1467
+Delaware,Ohio,true,-562
+Delhi,New York,true,-461
+Del Mar,California,true,-1108
+Del Monte Forest,California,true,-5128
+Del Norte,Colorado,true,-51
+Delray Beach,Florida,false,668
+Del Rey Oaks,California,true,-216
+Del Rio,Texas,true,-133
+Delta,Colorado,true,-625
+Deltaville,Virginia,true,-954
+Delton,Michigan,false,133
+Deltona,Florida,true,-25
+Del Valle,Texas,true,-55
+Deming,New Mexico,true,-545
+Deming,Washington,true,-1043
+Demorest,Georgia,true,-812
+Denison,Texas,true,-1005
+Denmark,Maine,true,-1515
+Dennis,Massachusetts,true,-1047
+Denton,Texas,true,-322
+Denton Township,Michigan,true,-523
+Denver,Colorado,true,-1007
+Denver,North Carolina,true,-1503
+De Pere,Wisconsin,true,-1508
+Depoe Bay,Oregon,true,-1310
+Deridder,Louisiana,true,-336
+Derry,New Hampshire,true,-1248
+Desert Hot Springs,California,false,399
+Des Moines,Iowa,true,-305
+Des Moines,Washington,true,-320
+Des Plaines,Illinois,true,-628
+Destin,Florida,true,-192
+Detroit,Michigan,true,-461
+Detroit Lakes,Minnesota,true,-1126
+Devils Lake,North Dakota,true,-233
+Dewey Beach,Delaware,true,-657
+Dickinson,Texas,false,339
+Dickson,Tennessee,true,-560
+Dillard,Georgia,true,-1510
+Dillon,Colorado,false,174
+Dillon,Montana,true,-716
+Dillon Beach,California,true,-1914
+Discovery Bay,California,true,-497
+Divide,Colorado,true,-1092
+Dodge City,Kansas,true,-111
+Dolores,Colorado,true,-928
+Donalsonville,Georgia,true,-97
+Donnelly,Idaho,true,-1796
+Doral,Florida,true,-868
+Doraville,Georgia,true,-934
+Dorset,Vermont,true,-1544
+Dothan,Alabama,true,-363
+Douglas,Michigan,true,-1965
+Douglasville,Georgia,true,-944
+Dover,Delaware,true,-105
+Dover,Idaho,true,-1164
+Dover,New Hampshire,true,-1166
+Dover,Ohio,true,-965
+Dover,Tennessee,true,-856
+Dover,Vermont,false,646
+Dover-foxcroft,Maine,true,-701
+Dowagiac,Michigan,false,392
+Downey,California,true,-705
+Downsville,New York,true,-811
+Doylestown,Pennsylvania,true,-647
+Drake,Colorado,true,-310
+Draper,Utah,true,-336
+Draper,Virginia,true,-242
+Driftwood,Texas,true,-589
+Driggs,Idaho,true,-891
+Dripping Springs,Texas,true,-591
+Drummond,Michigan,true,-909
+Dry Ridge,Kentucky,true,-903
+Dublin,California,true,-311
+Dublin,Ohio,true,-1224
+Dublin,Virginia,true,-760
+Dubois,Wyoming,true,-839
+Dubuque,Iowa,true,-650
+Duck,North Carolina,true,-1398
+Duck Creek Village,Utah,true,-1489
+Duck Key,Florida,false,281
+Duluth,Georgia,true,-464
+Duluth,Minnesota,true,-1270
+Duncan,Oklahoma,true,-779
+Duncan,South Carolina,true,-959
+Duncanville,Texas,true,-471
+Dundee,New York,true,-1375
+Dundee,Ohio,true,-660
+Dundee,Oregon,true,-1586
+Dunedin,Florida,false,517
+Dunkirk,New York,true,-687
+Dunlap,California,true,-346
+Dunlap,Tennessee,true,-120
+Dunmore,West Virginia,false,252
+Dunnellon,Florida,true,-261
+Dunsmuir,California,true,-277
+Dunwoody,Georgia,true,-538
+Durango,Colorado,true,-439
+Durant,Oklahoma,true,-682
+Durham,North Carolina,true,-616
+Eagar,Arizona,true,-212
+Eagle,Colorado,false,62
+Eagle,Idaho,true,-295
+Eagle Mountain,Utah,true,-302
+Eagle Nest,New Mexico,true,-361
+Eagle Pass,Texas,true,-468
+Eagle River,Wisconsin,true,-492
+Eagle Rock,Missouri,true,-861
+Easley,South Carolina,true,-586
+East Aurora,New York,true,-750
+East Greenwich,Rhode Island,true,-1575
+East Haddam,Connecticut,true,-1597
+Eastham,Massachusetts,true,-294
+East Hampton,Connecticut,true,-241
+East Hampton,New York,true,-3770
+East Haven,Connecticut,true,-1332
+East Jordan,Michigan,true,-1246
+East Lansing,Michigan,false,41
+East Los Angeles,California,true,-552
+East Lyme,Connecticut,true,-1114
+East Marion,New York,true,-4568
+Easton,Maryland,false,246
+Easton,Pennsylvania,true,-202
+Easton,Washington,false,558
+East Orange,New Jersey,false,71
+East Palo Alto,California,true,-1029
+East Peoria,Illinois,true,-487
+Eastpoint,Florida,true,-538
+East Point,Georgia,true,-483
+Eastport,Maine,true,-973
+East Providence,Rhode Island,true,-678
+East Quogue,New York,true,-2584
+Eastsound,Washington,true,-1534
+East Stroudsburg,Pennsylvania,true,-1137
+East Tawas,Michigan,true,-853
+Eastvale,California,true,-342
+East Wenatchee,Washington,true,-1104
+Eatonton,Georgia,true,-880
+Eatonville,Washington,true,-578
+Eau Claire,Wisconsin,true,-715
+Eclectic,Alabama,false,211
+Eddyville,Kentucky,true,-388
+Eden,Utah,false,414
+Edenton,North Carolina,true,-342
+Edgartown,Massachusetts,true,-3023
+Edgecomb,Maine,true,-1200
+Edgemont,Arkansas,true,-940
+Edgerton,Wisconsin,true,-969
+Edgewater,Colorado,true,-799
+Edgewater,Florida,true,-382
+Edgewater,Maryland,true,-1153
+Edinboro,Pennsylvania,true,-546
+Edinburg,Texas,true,-300
+Edisto Island,South Carolina,true,-119
+Edmond,Oklahoma,true,-727
+Edmonds,Washington,true,-790
+Edwards,Colorado,true,-1209
+Egg Harbor,Wisconsin,true,-1186
+Egremont,Massachusetts,true,-1628
+Elberta,Alabama,true,-1007
+El Cajon,California,true,-1130
+El Centro,California,true,-719
+El Cerrito,California,true,-624
+Elephant Butte,New Mexico,true,-836
+Elgin,Texas,true,-1380
+Elizabeth,New Jersey,true,-521
+Elizabeth City,North Carolina,true,-815
+Elizabethton,Tennessee,true,-427
+Elizabethtown,Kentucky,true,-406
+Elizabethtown,New York,true,-826
+Elizabethtown,North Carolina,true,-704
+Elizabethtown,Pennsylvania,false,155
+Elka Park,New York,true,-1673
+Elk Grove,California,true,-509
+Elkhart,Indiana,true,-244
+Elkhart Lake,Wisconsin,true,-1145
+Elkhorn,Wisconsin,true,-4340
+Elkin,North Carolina,true,-464
+Elkins,West Virginia,true,-673
+Elk Park,North Carolina,true,-1297
+Elk Rapids,Michigan,true,-640
+Elkton,Maryland,true,-1358
+Elkton,Virginia,true,-1508
+Ellensburg,Washington,false,13
+Ellenville,New York,true,-624
+Ellenwood,Georgia,true,-195
+Ellicottville,New York,true,-162
+Ellijay,Georgia,true,-1279
+Ellison Bay,Wisconsin,true,-1706
+Ellsworth,Maine,true,-673
+Elmira,Michigan,true,-1383
+Elmira,New York,true,-637
+Elmont,New York,true,-149
+El Monte,California,true,-445
+El Paso,Texas,true,-538
+El Portal,Florida,false,309
+El Prado,New Mexico,true,-335
+El Segundo,California,true,-1027
+Ely,Minnesota,true,-748
+Emerald Isle,North Carolina,true,-1212
+Emeryville,California,true,-1389
+Emigrant,Montana,true,-1355
+Eminence,Missouri,true,-442
+Empire,Michigan,true,-617
+Emporia,Kansas,true,-1005
+Encinitas,California,true,-2058
+Englewood,Colorado,true,-1192
+Englewood,Florida,false,324
+Englewood,New Jersey,true,-1035
+Enid,Oklahoma,true,-438
+Ennis,Montana,true,-525
+Enterprise,Alabama,true,-328
+Enterprise,Oregon,true,-1015
+Enumclaw,Washington,true,-196
+Ephraim,Wisconsin,true,-963
+Ephrata,Pennsylvania,true,-402
+Epworth,Georgia,true,-1882
+Erie,Colorado,true,-881
+Erie,Pennsylvania,true,-627
+Erwin,Tennessee,true,-537
+Escalante,Utah,false,105
+Escanaba,Michigan,true,-542
+Escondido,California,true,-445
+Essex,Connecticut,true,-1085
+Essex,Montana,true,-674
+Essex,Vermont,true,-1056
+Estes Park,Colorado,true,-1530
+Eucha,Oklahoma,true,-1163
+Euclid,Ohio,true,-340
+Eufaula,Alabama,false,59
+Eufaula,Oklahoma,true,-752
+Eugene,Oregon,true,-345
+Euless,Texas,true,-277
+Eureka,California,true,-161
+Eureka,Montana,true,-1517
+Eureka Springs,Arkansas,true,-355
+Eustis,Florida,true,-233
+Eustis,Maine,false,728
+Evans,Georgia,false,4808
+Evanston,Illinois,true,-284
+Evansville,Indiana,true,-681
+Everett,Massachusetts,true,-1035
+Everett,Washington,true,-562
+Evergreen,Colorado,true,-1046
+Ewa Beach,Hawaii,true,-989
+Excelsior,Minnesota,true,-3027
+Excelsior Springs,Missouri,true,-1093
+Exeter,California,true,-402
+Fairbanks,Alaska,true,-401
+Fairborn,Ohio,true,-496
+Fairburn,Georgia,true,-273
+Fairfax,California,true,-595
+Fairfax,Virginia,true,-608
+Fairfield,California,true,-1458
+Fairfield,Connecticut,true,-674
+Fairfield,Iowa,true,-284
+Fairfield,Pennsylvania,true,-670
+Fairfield Bay,Arkansas,true,-84
+Fairhaven,Massachusetts,true,-1024
+Fairhope,Alabama,false,324
+Fairlee,Vermont,true,-1221
+Fair Oaks,California,true,-302
+Fairplay,Colorado,true,-1155
+Fair Play,South Carolina,true,-1064
+Fairport,New York,true,-1548
+Fairport Harbor,Ohio,true,-575
+Fairview,North Carolina,true,-1804
+Fallbrook,California,true,-1057
+Falls Church,Virginia,true,-331
+Falmouth,Maine,true,-602
+Falmouth,Massachusetts,true,-1668
+Fancy Gap,Virginia,true,-440
+Fannin County,Georgia,true,-2344
+Fargo,North Dakota,true,-601
+Faribault,Minnesota,true,-501
+Farmers Branch,Texas,true,-737
+Farmington,New Mexico,true,-590
+Farmington,Pennsylvania,true,-752
+Farmington,Utah,true,-720
+Farmington Hills,Michigan,true,-789
+Farmville,Virginia,true,-529
+Fawnskin,California,true,-1044
+Fayetteville,Arkansas,true,-574
+Fayetteville,Georgia,true,-693
+Fayetteville,North Carolina,true,-506
+Fayetteville,Tennessee,true,-287
+Fayetteville,Texas,true,-277
+Fayetteville,West Virginia,true,-1200
+Federal Way,Washington,true,-1056
+Felton,California,true,-498
+Fennville,Michigan,true,-1548
+Fenton,Michigan,true,-903
+Fenwick Island,Delaware,true,-189
+Fergus Falls,Minnesota,true,-1006
+Ferguson,North Carolina,true,-420
+Fernandina Beach,Florida,false,1
+Ferndale,California,true,-1595
+Ferndale,Michigan,true,-392
+Ferndale,Washington,true,-1247
+Ferryville,Wisconsin,true,-762
+Fife Lake,Michigan,true,-1392
+Findlay,Ohio,true,-536
+Fischer,Texas,true,-510
+Fish Camp,California,false,547
+Fish Creek,Wisconsin,true,-712
+Fishers,Indiana,true,-262
+Fish Haven,Idaho,true,-3866
+Fitzgerald,Georgia,true,-538
+Flagler Beach,Florida,true,-4277
+Flagstaff,Arizona,true,-754
+Flat Rock,North Carolina,true,-915
+Fleetwood,North Carolina,true,-1130
+Fleischmanns,New York,true,-355
+Fletcher,North Carolina,true,-1287
+Flint,Michigan,true,-559
+Flint,Texas,true,-474
+Flippin,Arkansas,true,-645
+Floral City,Florida,true,-200
+Florence,Alabama,true,-596
+Florence,Arizona,false,296
+Florence,Oregon,true,-893
+Florence,South Carolina,true,-256
+Florissant,Colorado,true,-970
+Florissant,Missouri,true,-213
+Flower Mound,Texas,true,-983
+Flowery Branch,Georgia,false,644
+Floyd,Virginia,true,-795
+Foley,Alabama,true,-235
+Folly Beach,South Carolina,true,-1069
+Folsom,California,true,-1312
+Folsom,Louisiana,true,-665
+Fond Du Lac,Wisconsin,true,-2057
+Fontana,California,true,-1055
+Fontana-on-geneva Lake,Wisconsin,true,-3006
+Forest,Virginia,true,-219
+Forest City,North Carolina,true,-359
+Foresthill,California,true,-422
+Forest Park,Georgia,true,-192
+Forest Park,Illinois,true,-684
+Forestport,New York,true,-850
+Forestville,California,true,-1130
+Forks,Washington,true,-767
+Forsyth,Missouri,true,-805
+Fort Ann,New York,true,-3298
+Fort Atkinson,Wisconsin,true,-915
+Fort Bragg,California,true,-145
+Fort Collins,Colorado,true,-1075
+Fort Davis,Texas,true,-5
+Fort Lauderdale,Florida,true,-215
+Fort Mccoy,Florida,true,-236
+Fort Mill,South Carolina,true,-226
+Fort Mohave,Arizona,true,-469
+Fort Myers,Florida,true,-45
+Fort Myers Beach,Florida,true,-301
+Fort Payne,Alabama,true,-359
+Fort Pierce,Florida,false,466
+Fort Smith,Arkansas,true,-412
+Fortuna,California,true,-754
+Fort Valley,Virginia,true,-826
+Fort Walton Beach,Florida,false,658
+Fort Washington,Maryland,false,144
+Fort Wayne,Indiana,true,-602
+Fort White,Florida,true,-247
+Fort Worth,Texas,true,-541
+Foster City,California,true,-1580
+Fountain Hills,Arizona,false,142
+Fountain Inn,South Carolina,true,-489
+Fountain Valley,California,true,-3222
+Four Corners,Florida,true,-1274
+Fox Island,Washington,true,-883
+Fox Lake,Illinois,true,-2436
+Framingham,Massachusetts,true,-698
+Franconia,New Hampshire,true,-1381
+Frankenmuth,Michigan,true,-1503
+Frankford,Delaware,true,-169
+Frankfort,Kentucky,true,-20
+Frankfort,Michigan,true,-2084
+Franklin,North Carolina,true,-986
+Franklin,Tennessee,true,-1074
+Franklin Township,New Jersey,true,-137
+Frankston,Texas,true,-816
+Fraser,Colorado,false,5
+Frazier Park,California,true,-708
+Frederica,Delaware,true,-392
+Frederick,Maryland,true,-470
+Fredericksburg,Texas,true,-593
+Fredericksburg,Virginia,true,-668
+Fredonia,New York,true,-636
+Freedom,New Hampshire,true,-804
+Freeland,Washington,true,-1327
+Freeport,Florida,true,-791
+Freeport,Maine,true,-1635
+Freeport,Texas,true,-1120
+Fremont,California,true,-813
+Fremont,Wisconsin,false,183
+French Lick,Indiana,true,-434
+Fresno,California,true,-430
+Friday Harbor,Washington,true,-1709
+Friendship,Wisconsin,true,-922
+Friendswood,Texas,false,454
+Fripp Island,South Carolina,true,-1038
+Frisco,Colorado,true,-733
+Frisco,North Carolina,true,-1007
+Frisco,Texas,true,-729
+Front Royal,Virginia,true,-562
+Fruita,Colorado,true,-669
+Fryeburg,Maine,true,-640
+Fullerton,California,true,-1498
+Fulton,Texas,true,-395
+Fuquay-varina,North Carolina,true,-523
+Gadsden,Alabama,true,-1312
+Gaines,Pennsylvania,true,-550
+Gainesville,Florida,true,-493
+Gainesville,Georgia,true,-966
+Gainesville,Texas,true,-464
+Gaithersburg,Maryland,true,-159
+Galax,Virginia,true,-539
+Galena,Illinois,true,-2040
+Gallatin,Tennessee,true,-1282
+Gallatin Gateway,Montana,false,538
+Galloway,New Jersey,false,366
+Galveston,Texas,true,-936
+Gambier,Ohio,true,-5
+Gansevoort,New York,false,633
+Gap,Pennsylvania,true,-30
+Garden,Michigan,true,-1302
+Gardena,California,true,-259
+Garden City,Idaho,true,-1378
+Garden City,South Carolina,true,-270
+Garden City,Utah,true,-2120
+Garden City Beach,South Carolina,false,1037
+Garden Grove,California,true,-849
+Garden Valley,Idaho,true,-498
+Gardiner,Montana,true,-317
+Gardiner,New York,true,-776
+Garfield,Arkansas,true,-603
+Garland,Texas,true,-883
+Garland County,Arkansas,false,327
+Garner,North Carolina,true,-449
+Gary,Indiana,true,-1238
+Gastonia,North Carolina,true,-697
+Gatlinburg,Tennessee,true,-1989
+Gaylord,Michigan,true,-879
+Gearhart,Oregon,true,-854
+Geneseo,New York,true,-1433
+Geneva,Illinois,true,-728
+Geneva,New York,true,-1445
+Geneva,Ohio,true,-836
+Georgetown,Colorado,true,-318
+Georgetown,Kentucky,true,-654
+Georgetown,South Carolina,false,528
+Georgetown,Texas,true,-452
+Germantown,Maryland,false,23
+Germantown,New York,true,-1916
+Gerton,North Carolina,true,-1288
+Gettysburg,Pennsylvania,true,-890
+Geyserville,California,false,34
+Ghent,New York,true,-1164
+Ghent,West Virginia,true,-10
+Gig Harbor,Washington,true,-1155
+Gilbert,Arizona,true,-451
+Gilbertsville,Kentucky,true,-612
+Gilboa,New York,true,-968
+Gilford,New Hampshire,true,-1443
+Gillette,Wyoming,true,-343
+Gilmanton,New Hampshire,true,-529
+Gilroy,California,true,-387
+Girdwood,Alaska,false,1356
+Glacier,Washington,true,-1095
+Gladwin,Michigan,true,-1288
+Glasgow,Kentucky,true,-438
+Glastonbury,Connecticut,true,-642
+Glen Arbor,Michigan,true,-1014
+Glenbrook,Nevada,true,-3462
+Glen Burnie,Maryland,true,-435
+Glendale,Arizona,true,-638
+Glendale,California,true,-1287
+Glendale,Utah,false,11
+Glendora,California,true,-894
+Gleneden Beach,Oregon,true,-944
+Glen Ellen,California,true,-1312
+Glen Rose,Texas,true,-244
+Glens Falls,New York,true,-603
+Glen Spey,New York,true,-386
+Glenville,North Carolina,true,-1297
+Glenwood,Arkansas,true,-1361
+Glenwood Springs,Colorado,true,-651
+Globe,Arizona,true,-529
+Gloucester,Massachusetts,true,-1771
+Gloucester,Virginia,true,-51
+Glover,Vermont,true,-351
+Gloversville,New York,true,-291
+Golconda,Illinois,true,-43
+Gold Bar,Washington,true,-1617
+Gold Beach,Oregon,true,-1038
+Gold Canyon,Arizona,true,-334
+Golden,Colorado,true,-1037
+Golden,Missouri,true,-1158
+Gold Hill,Oregon,true,-927
+Goldsboro,North Carolina,true,-341
+Goleta,California,true,-443
+Gonzales,Louisiana,true,-445
+Goodlettsville,Tennessee,true,-45
+Goodrich,Texas,false,166
+Goodyear,Arizona,true,-610
+Goose Creek,South Carolina,true,-330
+Gordonsville,Virginia,true,-439
+Gordonville,Pennsylvania,true,-809
+Gordonville,Texas,false,48
+Gorham,New Hampshire,true,-902
+Goshen,Indiana,true,-319
+Goshen,New York,true,-592
+Gouldsboro,Maine,true,-887
+Gouldsboro,Pennsylvania,true,-1119
+Government Camp,Oregon,true,-64
+Graeagle,California,false,3
+Graford,Texas,true,-660
+Grafton,Illinois,true,-415
+Graham,North Carolina,true,-696
+Graham,Texas,true,-817
+Granbury,Texas,true,-901
+Granby,Colorado,true,-545
+Grand Bay,Alabama,true,-632
+Grand Forks,North Dakota,true,-929
+Grand Haven,Michigan,true,-919
+Grand Island,Nebraska,true,-183
+Grand Isle,Louisiana,true,-894
+Grand Isle,Vermont,true,-35
+Grand Junction,Colorado,true,-433
+Grand Lake,Colorado,true,-1275
+Grand Marais,Michigan,true,-1075
+Grand Marais,Minnesota,true,-1604
+Grand Prairie,Texas,true,-660
+Grand Rapids,Michigan,true,-705
+Grand Rapids,Minnesota,true,-1139
+Grand Rivers,Kentucky,true,-637
+Grandview,Missouri,true,-841
+Grandville,Michigan,true,-1618
+Granger,Indiana,true,-760
+Granite Bay,California,true,-267
+Granite Falls,Washington,true,-1249
+Grantham,New Hampshire,true,-2049
+Grants Pass,Oregon,true,-620
+Granville,Ohio,false,80
+Grapeview,Washington,true,-767
+Grapevine,Texas,true,-721
+Grass Valley,California,true,-550
+Grassy Creek,North Carolina,true,-568
+Gravois Mills,Missouri,true,-954
+Grawn,Michigan,true,-199
+Gray,Tennessee,true,-690
+Grayland,Washington,true,-740
+Grayling,Michigan,true,-929
+Great Barrington,Massachusetts,true,-2018
+Great Cacapon,West Virginia,true,-948
+Great Falls,Montana,true,-540
+Great Valley,New York,true,-843
+Greeley,Colorado,true,-170
+Greenbank,Washington,true,-1410
+Green Bay,Wisconsin,true,-2237
+Greenbush,Michigan,true,-765
+Greencastle,Indiana,true,-267
+Green Cove Springs,Florida,true,-52
+Greeneville,Tennessee,true,-756
+Greenfield,Indiana,true,-804
+Green Lake,Wisconsin,true,-2256
+Green Mountain,North Carolina,true,-395
+Green Mountain Falls,Colorado,true,-807
+Greenport,New York,true,-2268
+Greensboro,Georgia,true,-1571
+Greensboro,North Carolina,true,-589
+Greensboro,Vermont,true,-761
+Greentown,Pennsylvania,true,-1254
+Green Valley,Arizona,true,-2
+Green Valley Lake,California,true,-603
+Greenville,Maine,false,52
+Greenville,North Carolina,true,-737
+Greenville,South Carolina,true,-689
+Greenville,Texas,false,173
+Greenwich,Connecticut,true,-2412
+Greenwood,Indiana,false,55
+Greenwood,Maine,true,-654
+Greenwood,South Carolina,true,-940
+Greenwood Lake,New York,true,-1384
+Greenwood Village,Colorado,true,-730
+Greer,Arizona,true,-1259
+Greer,South Carolina,true,-738
+Greers Ferry,Arkansas,false,91
+Gresham,Oregon,true,-1127
+Gretna,Louisiana,true,-502
+Griffin,Georgia,true,-391
+Groton,Connecticut,true,-927
+Grove,Oklahoma,true,-707
+Grove City,Ohio,true,-893
+Groveland,California,true,-557
+Grover Beach,California,true,-633
+Grovetown,Georgia,false,622
+Gualala,California,true,-509
+Guerneville,California,true,-785
+Guilford,Connecticut,true,-1097
+Gulf Breeze,Florida,true,-19
+Gulfport,Florida,true,-1
+Gulfport,Mississippi,true,-375
+Gulf Shores,Alabama,false,351
+Gun Barrel City,Texas,true,-1537
+Gunnison,Colorado,true,-333
+Guntersville,Alabama,true,-461
+Guthrie,Oklahoma,true,-595
+Guttenberg,New Jersey,true,-458
+Gypsum,Colorado,true,-998
+Hacienda Heights,California,true,-166
+Hackensack,New Jersey,true,-703
+Hadley,New York,true,-1726
+Hagerman,Idaho,true,-783
+Hagerstown,Maryland,true,-667
+Haiku-pauwela,Hawaii,true,-463
+Hailey,Idaho,true,-499
+Haines,Alaska,true,-176
+Haines City,Florida,true,-394
+Haleiwa,Hawaii,true,-1690
+Half Moon Bay,California,true,-1125
+Hallandale Beach,Florida,true,-989
+Hallowell,Maine,true,-659
+Hamburg,New York,true,-844
+Hamden,Connecticut,false,7
+Hamilton,Missouri,true,-383
+Hamilton,Montana,true,-1236
+Hamilton,New York,false,223
+Hamilton,Ohio,false,213
+Hamlin,Pennsylvania,true,-1490
+Hammond,Louisiana,true,-418
+Hammondsport,New York,true,-1332
+Hammonton,New Jersey,true,-812
+Hampstead,North Carolina,true,-841
+Hampton,Georgia,true,-243
+Hampton,New Hampshire,true,-1441
+Hampton,Virginia,true,-366
+Hampton Bays,New York,true,-2835
+Hamtramck,Michigan,true,-308
+Hana,Hawaii,true,-539
+Hanahan,South Carolina,true,-396
+Hanalei,Hawaii,false,332
+Hancock,Maine,true,-959
+Hancock,Massachusetts,true,-323
+Hancock,Michigan,true,-1121
+Hancock,New York,true,-582
+Hanford,California,true,-397
+Hanna City,Illinois,true,-382
+Hannibal,Missouri,true,-808
+Hapeville,Georgia,true,-700
+Happy Valley,Oregon,true,-1135
+Harbor Springs,Michigan,true,-896
+Hardy,Arkansas,true,-282
+Harker Heights,Texas,true,-396
+Harkers Island,North Carolina,true,-1145
+Harlingen,Texas,true,-297
+Harpers Ferry,West Virginia,true,-953
+Harpswell,Maine,true,-1007
+Harrisburg,Pennsylvania,true,-423
+Harrison,Arkansas,true,-407
+Harrison,Idaho,true,-728
+Harrison,Maine,true,-326
+Harrison,Michigan,true,-236
+Harrisonburg,Virginia,true,-325
+Harrodsburg,Kentucky,true,-735
+Hartford,Connecticut,true,-241
+Hartford,Vermont,true,-804
+Hartland,Vermont,true,-442
+Hartsville,South Carolina,true,-621
+Hartwell,Georgia,true,-751
+Harvest,Alabama,true,-763
+Harwich,Massachusetts,true,-620
+Hatch,Utah,true,-529
+Hatfield,Arkansas,true,-165
+Hatteras,North Carolina,true,-1150
+Hattiesburg,Mississippi,true,-65
+Hauula,Hawaii,true,-943
+Haverhill,New Hampshire,true,-1036
+Hawi,Hawaii,true,-197
+Hawley,Pennsylvania,true,-1484
+Hawthorne,California,true,-237
+Hawthorne,Florida,true,-2266
+Hayden,Idaho,true,-1697
+Hayesville,North Carolina,true,-857
+Hays,Kansas,true,-252
+Hayward,California,true,-495
+Hayward,Wisconsin,true,-1061
+Hazel Park,Michigan,true,-453
+Healdsburg,California,true,-2395
+Healy,Alaska,false,818
+Heathsville,Virginia,true,-1659
+Heber City,Utah,true,-550
+Heber-overgaard,Arizona,true,-685
+Heber Springs,Arkansas,true,-503
+Hector,New York,true,-1088
+Hedgesville,West Virginia,true,-705
+Helen,Georgia,true,-1241
+Helena,Montana,true,-848
+Helotes,Texas,true,-576
+Helper,Utah,true,-387
+Hemet,California,true,-568
+Hemphill,Texas,true,-180
+Hempstead,New York,true,-634
+Henderson,Nevada,true,-1160
+Henderson,North Carolina,true,-525
+Hendersonville,North Carolina,true,-1029
+Hendersonville,Tennessee,true,-1888
+Henrico,North Carolina,true,-916
+Henryville,Pennsylvania,true,-1634
+Hensonville,New York,true,-743
+Hereford,Arizona,false,140
+Hermann,Missouri,true,-1046
+Hermosa,South Dakota,true,-1463
+Hermosa Beach,California,true,-1961
+Hernando,Florida,true,-527
+Hernando Beach,Florida,true,-60
+Herndon,Virginia,true,-452
+Herriman,Utah,true,-1072
+Hershey,Pennsylvania,true,-557
+Hesperia,California,true,-202
+Hialeah,Florida,true,-94
+Hiawassee,Georgia,true,-771
+Hickory,North Carolina,true,-819
+Hico,West Virginia,true,-774
+Hidden Valley,Pennsylvania,true,-159
+Hideout,Utah,false,29
+Higden,Arkansas,true,-253
+High Falls,New York,true,-1583
+Highland,New York,true,-2236
+Highland,Utah,true,-858
+Highland Falls,New York,true,-236
+Highland Park,Illinois,true,-2484
+Highlands,New Jersey,true,-2003
+Highlands,North Carolina,true,-1952
+High Point,North Carolina,true,-499
+High Springs,Florida,true,-218
+Hildale,Utah,false,72
+Hill City,South Dakota,true,-1175
+Hillsboro,Ohio,true,-774
+Hillsboro,Oregon,true,-383
+Hillsborough,North Carolina,true,-202
+Hillsdale,Michigan,true,-609
+Hillsdale,New York,true,-1166
+Hilo,Hawaii,false,7
+Hilton Head,South Carolina,false,2020
+Hilton Head Island,South Carolina,false,131
+Himrod,New York,true,-2110
+Hinesburg,Vermont,true,-1521
+Hinesville,Georgia,true,-740
+Hinton,West Virginia,true,-389
+Hobbs,New Mexico,true,-700
+Hobe Sound,Florida,false,412
+Hoboken,New Jersey,true,-572
+Holcombe,Wisconsin,true,-1015
+Holden Beach,North Carolina,true,-1128
+Holderness,New Hampshire,true,-935
+Holiday,Florida,true,-239
+Holiday Island,Arkansas,true,-308
+Holladay,Utah,false,702
+Holland,Michigan,true,-1758
+Hollister,Missouri,true,-2333
+Holly,Michigan,true,-859
+Holly Ridge,North Carolina,true,-941
+Hollywood,Florida,true,-495
+Holmes Beach,Florida,false,1814
+Holualoa,Hawaii,true,-1865
+Homer,Alaska,true,-309
+Homer,New York,true,-2095
+Homestead,Florida,false,391
+Homewood,California,true,-254
+Homosassa,Florida,false,201
+Honeoye,New York,true,-1229
+Honesdale,Pennsylvania,true,-765
+Honokaa,Hawaii,true,-1414
+Honolulu,Hawaii,true,-710
+Honor,Michigan,true,-514
+Hood River,Oregon,true,-1045
+Hoodsport,Washington,true,-998
+Hoover,Alabama,true,-448
+Hopatcong,New Jersey,true,-2872
+Hope,Alaska,false,177
+Hope Mills,North Carolina,true,-569
+Hopewell Junction,New York,true,-592
+Hopkinsville,Kentucky,true,-519
+Hoquiam,Washington,true,-488
+Horizon City,Texas,true,-950
+Horseshoe Bay,Texas,true,-166
+Hotchkiss,Colorado,true,-521
+Hot Springs,Arkansas,true,-346
+Hot Springs,North Carolina,true,-473
+Hot Springs,South Dakota,false,85
+Houghton,Michigan,true,-904
+Houghton Lake,Michigan,true,-1034
+Houma,Louisiana,true,-204
+Houston,Texas,true,-449
+Howard,Ohio,true,-727
+Hubert,North Carolina,true,-519
+Huddleston,Virginia,true,-1439
+Hudson,Florida,true,-225
+Hudson,New York,true,-1055
+Hudson,Wisconsin,true,-1036
+Hull,Massachusetts,true,-1516
+Humble,Texas,true,-184
+Hummelstown,Pennsylvania,true,-1638
+Hungry Horse,Montana,true,-829
+Hunt,Texas,false,911
+Hunter,New York,true,-1160
+Huntersville,North Carolina,true,-1483
+Huntingdon,Pennsylvania,true,-327
+Huntington,West Virginia,true,-430
+Huntington Beach,California,true,-1263
+Huntsville,Alabama,true,-638
+Huntsville,Texas,true,-961
+Huntsville,Utah,false,25
+Hurley,New York,true,-1004
+Hurley,Wisconsin,true,-1429
+Huron,Ohio,true,-755
+Hurricane,Utah,true,-856
+Hutchinson,Kansas,true,-374
+Hutto,Texas,true,-242
+Hyattsville,Maryland,true,-231
+Hyde Park,New York,true,-1945
+Hyde Park,Vermont,true,-632
+Idaho Falls,Idaho,true,-5436
+Idaho Springs,Colorado,true,-1402
+Idyllwild,California,false,193
+Idyllwild-pine Cove,California,true,-533
+Imperial Beach,California,true,-1190
+Incline Village,Nevada,true,-1322
+Independence,Missouri,true,-312
+Independence,Oregon,true,-689
+Index,Washington,true,-1306
+Indialantic,Florida,true,-144
+Indiana,Pennsylvania,true,-513
+Indianapolis,Indiana,true,-456
+Indian Harbour Beach,Florida,true,-398
+Indian Lake,New York,true,-1354
+Indian Pass,Florida,false,881
+Indian River,Michigan,true,-1705
+Indian Rocks Beach,Florida,false,716
+Indian Shores,Florida,false,1033
+Indian Wells,California,false,674
+Indio,California,true,-674
+Inglewood,California,true,-970
+Inglis,Florida,true,-171
+Ingram,Texas,true,-1095
+Inlet,New York,true,-524
+Inlet Beach,Florida,true,-1253
+Inman,South Carolina,true,-542
+Innsbrook,Missouri,true,-1380
+Interlaken,New York,true,-762
+Interlochen,Michigan,true,-1663
+Intervale,New Hampshire,true,-807
+Inverness,California,true,-975
+Inverness,Florida,true,-19
+Iola,Kansas,true,-506
+Iowa City,Iowa,true,-979
+Ipswich,Massachusetts,true,-1338
+Irmo,South Carolina,true,-1189
+Irondequoit,New York,true,-743
+Iron River,Michigan,true,-957
+Iron River,Wisconsin,true,-610
+Irons,Michigan,true,-800
+Ironwood,Michigan,true,-1078
+Irvine,California,true,-1083
+Irving,Texas,true,-363
+Irvington,New Jersey,true,-444
+Irwin,Idaho,true,-301
+Ishpeming,Michigan,true,-668
+Islamorada,Florida,false,1544
+Island Park,Idaho,true,-1592
+Isle,Minnesota,true,-1400
+Isle Of Palms,South Carolina,true,-40
+Issaquah,Washington,true,-683
+Ithaca,New York,true,-726
+Iuka,Mississippi,true,-473
+Ivins,Utah,false,43
+Jackson,Georgia,true,-1196
+Jackson,Michigan,true,-698
+Jackson,Mississippi,true,-612
+Jackson,New Hampshire,true,-679
+Jackson,Tennessee,true,-82
+Jackson,Wyoming,true,-683
+Jacksons' Gap,Alabama,true,-707
+Jacksonville,Arkansas,true,-643
+Jacksonville,Florida,true,-898
+Jacksonville,North Carolina,true,-688
+Jacksonville,Oregon,true,-631
+Jacksonville Beach,Florida,true,-570
+Jamaica,Vermont,false,1
+Jamaica Beach,Texas,true,-1686
+Jamestown,Kentucky,true,-367
+Jamestown,New York,true,-733
+Jamestown,North Carolina,true,-881
+Jamestown,Rhode Island,true,-1799
+Jamestown,Tennessee,true,-85
+Jamul,California,true,-2957
+Janesville,Wisconsin,true,-709
+Jasper,Alabama,true,-443
+Jasper,Arkansas,true,-429
+Jasper,Georgia,true,-1344
+Jay,New York,true,-759
+Jay,Vermont,false,1799
+Jefferson,Colorado,true,-1091
+Jefferson,New Hampshire,false,78
+Jefferson,New Jersey,true,-1869
+Jefferson,New York,true,-849
+Jefferson,North Carolina,true,-823
+Jefferson,Texas,true,-309
+Jefferson City,Missouri,true,-692
+Jefferson City,Tennessee,true,-764
+Jeffersonville,Indiana,false,25
+Jeffersonville,New York,true,-545
+Jekyll Island,Georgia,true,-1248
+Jemez Springs,New Mexico,true,-949
+Jenner,California,true,-668
+Jensen Beach,Florida,false,669
+Jerome,Arizona,true,-3450
+Jersey City,New Jersey,true,-538
+Jewett,New York,true,-1508
+Jim Thorpe,Pennsylvania,true,-1011
+Johnsburg,New York,true,-1191
+Johns Island,South Carolina,true,-83
+Johnson,Vermont,true,-509
+Johnson City,New York,false,169
+Johnson City,Tennessee,true,-656
+Johnson City,Texas,true,-803
+Johnstown,Pennsylvania,true,-203
+Jonesboro,Arkansas,true,-318
+Jonesboro,Georgia,true,-365
+Jonesborough,Tennessee,true,-208
+Jonestown,Texas,true,-362
+Joplin,Missouri,true,-579
+Joseph,Oregon,true,-144
+Joshua Tree,California,true,-670
+Julian,California,true,-1190
+Junction City,Oregon,true,-742
+Juneau,Alaska,true,-432
+June Lake,California,true,-1170
+Juno Beach,Florida,true,-779
+Jupiter,Florida,false,142
+Jurupa Valley,California,true,-94
+Kaanapali,Hawaii,true,-2603
+Kahuku,Hawaii,true,-3103
+Kailua,Hawaii,true,-2135
+Kailua-kona,Hawaii,true,-91
+Kailua Kona,Hawaii,true,-2047
+Kalamazoo,Michigan,true,-863
+Kalispell,Montana,true,-1516
+Kalkaska,Michigan,true,-1012
+Kamas,Utah,true,-837
+Kamuela,Hawaii,false,152
+Kanab,Utah,true,-396
+Kane,Pennsylvania,true,-464
+Kaneohe,Hawaii,true,-3364
+Kannapolis,North Carolina,true,-592
+Kansas City,Kansas,true,-541
+Kansas City,Missouri,true,-444
+Kapaa,Hawaii,true,-90
+Kapaʻa,Hawaii,true,-223
+Kapaau,Hawaii,true,-201
+Kapalua,Hawaii,true,-1266
+Kapolei,Hawaii,false,3
+Karnack,Texas,true,-356
+Kasilof,Alaska,false,592
+Katy,Texas,true,-464
+Kaunakakai,Hawaii,true,-28
+Kaysville,Utah,true,-577
+Keaau,Hawaii,true,-215
+Kealakekua,Hawaii,false,275
+Keansburg,New Jersey,true,-977
+Kearney,Nebraska,true,-157
+Kearny,New Jersey,true,-300
+Keene,New Hampshire,true,-804
+Keene,New York,true,-1420
+Keene Valley,New York,true,-1565
+Keeseville,New York,true,-1390
+Keizer,Oregon,true,-592
+Keller,Texas,true,-707
+Kellogg,Idaho,true,-874
+Kelseyville,California,true,-475
+Kemah,Texas,true,-648
+Kenai,Alaska,true,-838
+Kenmore,Washington,true,-16
+Kennebunk,Maine,true,-1785
+Kennebunkport,Maine,true,-2085
+Kenner,Louisiana,false,74
+Kennesaw,Georgia,true,-369
+Kennett Square,Pennsylvania,true,-541
+Kennewick,Washington,true,-331
+Kenosha,Wisconsin,true,-737
+Kensington,California,true,-1016
+Kent,Connecticut,true,-1194
+Kent,Washington,true,-634
+Kentfield,California,true,-898
+Kenwood,California,true,-1648
+Kerhonkson,New York,true,-1381
+Kernersville,North Carolina,true,-857
+Kernville,California,true,-943
+Kerrville,Texas,true,-793
+Ketchikan,Alaska,true,-1069
+Ketchum,Idaho,false,354
+Keuka Park,New York,true,-332
+Key Biscayne,Florida,false,712
+Key Colony Beach,Florida,false,916
+Key Largo,Florida,false,686
+Keystone,Colorado,true,-60
+Keystone,South Dakota,true,-115
+Keystone Heights,Florida,true,-203
+Key West,Florida,false,1634
+Kiawah Island,South Carolina,false,894
+Kihei,Hawaii,true,-100
+"Kihei, Maui",Hawaii,false,173
+Kilauea,Hawaii,true,-4012
+Kill Devil Hills,North Carolina,true,-1007
+Killeen,Texas,true,-405
+Killington,Vermont,false,1127
+Kimberling City,Missouri,true,-575
+Kingfield,Maine,true,-306
+Kingman,Arizona,true,-478
+Kings Beach,California,true,-569
+Kingsland,Texas,true,-1295
+Kingsport,Tennessee,true,-745
+Kingston,Arkansas,true,-171
+Kingston,New York,true,-1368
+Kingston,Oklahoma,true,-720
+Kingston,Tennessee,true,-965
+Kingston,Washington,true,-1016
+Kingston Springs,Tennessee,true,-538
+Kirkland,Washington,true,-1244
+Kirkwood,California,false,1896
+Kissimmee,Florida,true,-762
+Kittery,Maine,true,-1592
+Kitty Hawk,North Carolina,true,-675
+Klamath,California,false,125
+Klamath Falls,Oregon,true,-786
+Knox,Indiana,true,-3341
+Knoxville,Tennessee,true,-670
+Kodak,Tennessee,true,-1070
+Kodiak,Alaska,true,-1015
+Kokomo,Indiana,true,-742
+Koloa,Hawaii,true,-175
+Kure Beach,North Carolina,true,-1059
+Kyle,Texas,false,75
+Lacey,Washington,true,-740
+Lackawaxen,Pennsylvania,true,-1727
+Laconia,New Hampshire,true,-907
+La Conner,Washington,true,-841
+La Crescenta-montrose,California,true,-1272
+La Crosse,Wisconsin,true,-337
+Ladson,South Carolina,true,-497
+Lady Lake,Florida,false,311
+Lafayette,California,true,-773
+Lafayette,Colorado,true,-669
+Lafayette,Indiana,true,-161
+Lafayette,Louisiana,true,-172
+Lafollette,Tennessee,true,-780
+Lago Vista,Texas,true,-883
+La Grande,Oregon,true,-370
+Lagrange,Georgia,true,-1028
+La Grange,Texas,true,-57
+Laguna Beach,California,true,-1740
+Laguna Hills,California,true,-1401
+Laguna Niguel,California,true,-1428
+Laguna Vista,Texas,true,-549
+Lahaina,Hawaii,true,-1284
+"Lahaina,",Hawaii,true,-5437
+Laie,Hawaii,true,-4809
+La Jolla,California,true,-1591
+La Junta,Colorado,true,-324
+Lake Ann,Michigan,true,-701
+Lake Ariel,Pennsylvania,true,-2057
+Lake Arrowhead,California,true,-1163
+Lakebay,Washington,true,-894
+Lake Buena Vista,Florida,false,1043
+Lake Charles,Louisiana,true,-285
+Lake City,Colorado,true,-1459
+Lake City,Florida,true,-2204
+Lake City,Michigan,false,59
+Lake City,Minnesota,true,-892
+Lake Elsinore,California,true,-1196
+Lake Forest,California,true,-899
+Lake Forest Park,Washington,true,-997
+Lake Geneva,Wisconsin,true,-1894
+Lake George,New York,true,-1264
+Lake Hamilton,Arkansas,true,-81
+Lake Hamilton Township,Arkansas,false,40
+Lake Harmony,Pennsylvania,true,-1597
+Lake Havasu City,Arizona,true,-344
+Lakehead-lakeshore,California,true,-269
+Lakehills,Texas,true,-885
+Lake Isabella,California,false,286
+Lake Junaluska,North Carolina,true,-71
+Lakeland,Florida,true,-171
+Lake Leelanau,Michigan,true,-991
+Lake Lure,North Carolina,true,-1562
+Lake Luzerne,New York,true,-1023
+Lake Mary,Florida,false,54
+Lakemont,Georgia,true,-1629
+Lake Montezuma,Arizona,true,-132
+Lake Oswego,Oregon,true,-512
+Lake Ozark,Missouri,true,-1265
+Lake Placid,Florida,true,-46
+Lake Placid,New York,true,-963
+Lakeport,California,false,167
+Lakeside,Arizona,true,-1191
+Lakeside,California,false,275
+Lakeside,Michigan,true,-1820
+Lakeside,Montana,true,-1219
+Lakeside,Oregon,true,-2222
+Lakeside Marblehead,Ohio,false,248
+Lake Stevens,Washington,true,-847
+Lake Toxaway,North Carolina,true,-2618
+Lakeview,Arkansas,true,-46
+Lakeview,Ohio,true,-683
+Lakeville,Pennsylvania,true,-1449
+Lake Wales,Florida,false,99
+Lakeway,Texas,true,-1408
+Lakewood,California,true,-331
+Lakewood,Colorado,true,-604
+Lakewood,Ohio,true,-423
+Lakewood,Washington,true,-477
+Lake Worth,Florida,true,-766
+Lake Worth Beach,Florida,true,-971
+Lambertville,New Jersey,true,-1350
+La Mesa,California,true,-1295
+Lamoine,Maine,true,-805
+Lampasas,Texas,false,704
+Lampe,Missouri,true,-1795
+Lancaster,California,true,-284
+Lancaster,Ohio,true,-1602
+Lancaster,Pennsylvania,true,-665
+Lander,Wyoming,true,-1352
+Landers,California,true,-458
+Land O' Lakes,Florida,true,-397
+Landrum,South Carolina,true,-849
+Lanesboro,Minnesota,true,-639
+Lanesborough,Massachusetts,true,-1439
+Lanesville,New York,true,-853
+Langley,Washington,true,-1172
+Lanham,Maryland,true,-84
+Lansing,Iowa,true,-723
+Lansing,Michigan,true,-330
+Lansing,New York,true,-758
+Lansing,North Carolina,true,-682
+Lantana,Florida,true,-70
+La Pine,Oregon,true,-697
+La Pointe,Wisconsin,true,-578
+La Porte,Indiana,true,-1238
+La Porte,Texas,true,-757
+La Puente,California,true,-218
+La Quinta,California,false,219
+Laramie,Wyoming,true,-459
+Laredo,Texas,true,-421
+Largo,Florida,true,-98
+Larkspur,California,false,29
+Larkspur,Colorado,true,-565
+Las Cruces,New Mexico,true,-359
+La Selva Beach,California,true,-1268
+Las Vegas,Nevada,true,-175
+Lauderdale-by-the-sea,Florida,false,307
+Lauderdale Lakes,Florida,true,-831
+Lauderhill,Florida,false,243
+Laurel,Maryland,true,-484
+Laurel,Mississippi,true,-712
+Laurel Springs,North Carolina,true,-647
+Laurelville,Ohio,true,-911
+Lava Hot Springs,Idaho,true,-1177
+Lavallette,New Jersey,true,-2909
+La Vergne,Tennessee,false,101
+La Verkin,Utah,true,-514
+La Verne,California,true,-593
+La Veta,Colorado,true,-575
+Lavonia,Georgia,true,-1709
+Lawndale,California,true,-215
+Lawrence,Kansas,true,-11
+Lawrenceburg,Kentucky,true,-135
+Lawrence Township,New Jersey,true,-808
+Lawrenceville,Georgia,true,-190
+Lawton,Oklahoma,true,-453
+Layton,Utah,true,-311
+Lead,South Dakota,true,-1201
+Leadville,Colorado,true,-266
+League City,Texas,true,-267
+Leakey,Texas,false,134
+Leander,Texas,false,31
+Leavenworth,Kansas,true,-858
+Leavenworth,Washington,true,-1756
+Lebanon,Missouri,true,-360
+Lebanon,New Hampshire,true,-1531
+Lebanon,Ohio,true,-195
+Lebanon,Oregon,true,-697
+Lebanon,Pennsylvania,true,-959
+Lebanon,Tennessee,true,-422
+Le Claire,Iowa,true,-426
+Lee,Massachusetts,true,-1875
+Leeds,Utah,true,-2145
+Leesburg,Florida,false,180
+Leesburg,Virginia,true,-749
+Lee's Summit,Missouri,true,-416
+Lehi,Utah,true,-360
+Lehigh Acres,Florida,true,-317
+Lehman Township,Pennsylvania,true,-1437
+Leicester,North Carolina,true,-689
+Leitchfield,Kentucky,true,-696
+Leland,Michigan,true,-1230
+Lemon Grove,California,true,-361
+Lenexa,Kansas,true,-520
+Lenoir,North Carolina,true,-1160
+Lenoir City,Tennessee,true,-700
+Lenox,Massachusetts,true,-804
+Lewes,Delaware,true,-715
+Lewisburg,Pennsylvania,false,512
+Lewisburg,West Virginia,true,-636
+Lewiston,Idaho,true,-615
+Lewiston,Maine,true,-1531
+Lewiston,Michigan,true,-871
+Lewiston,New York,true,-450
+Lewistown,Montana,true,-761
+Lewisville,Texas,true,-788
+Lexington,Kentucky,true,-1110
+Lexington,Michigan,true,-949
+Lexington,North Carolina,true,-891
+Lexington,South Carolina,true,-266
+Lexington,Virginia,true,-611
+Libby,Montana,true,-155
+Liberty,Missouri,true,-606
+Liberty,New York,true,-231
+Liberty Hill,Texas,true,-260
+Liberty Lake,Washington,true,-1998
+Libertyville,Illinois,true,-2025
+Lighthouse Point,Florida,true,-768
+Ligonier,Pennsylvania,true,-625
+Lihue,Hawaii,true,-703
+"Lihue, Kauai",Hawaii,false,4235
+Lilburn,Georgia,true,-358
+Lilliwaup,Washington,true,-1056
+Lima,Ohio,true,-312
+Limerick,Maine,false,339
+Lincoln,California,true,-9
+Lincoln,Nebraska,true,-456
+Lincoln,New Hampshire,true,-707
+Lincoln Beach,Oregon,true,-815
+Lincoln City,Oregon,true,-1401
+Lincolnville,Maine,true,-1729
+Lindale,Texas,true,-407
+Linden,New Jersey,true,-509
+Linden,Virginia,true,-1390
+Lindon,Utah,true,-957
+Litchfield,Connecticut,true,-1427
+Litchfield Park,Arizona,true,-985
+Lithonia,Georgia,true,-128
+Lititz,Pennsylvania,true,-296
+Little Compton,Rhode Island,true,-1916
+Little Egg Harbor Township,New Jersey,true,-1074
+Little Elm,Texas,true,-1364
+Little River,California,true,-562
+Little River,South Carolina,true,-494
+Little Rock,Arkansas,true,-500
+Littleton,Colorado,true,-915
+Littleton,New Hampshire,true,-836
+Littleton,North Carolina,true,-985
+Live Oak,Florida,true,-399
+Livermore,California,true,-2254
+Livingston,Montana,true,-1830
+Livingston,Texas,true,-748
+Livingston Manor,New York,true,-1012
+Livonia,Michigan,true,-543
+Llano,Texas,true,-348
+Lockhart,Texas,true,-421
+Lock Haven,Pennsylvania,true,-12
+Lodi,California,true,-1062
+Lodi,New York,true,-1194
+Logan,Ohio,true,-1088
+Logan,Utah,true,-30
+Loganville,Georgia,true,-408
+Loma Linda,California,true,-1489
+Lombard,Illinois,true,-1072
+Lompoc,California,true,-1953
+London,Kentucky,true,-449
+Londonderry,Vermont,true,-63
+Lone Pine,California,false,106
+Long Barn,California,true,-218
+Long Beach,California,true,-761
+Long Beach,Mississippi,true,-640
+Long Beach,New Jersey,true,-5238
+Long Beach,New York,true,-1180
+Long Beach,Washington,true,-937
+Long Beach Township,New Jersey,true,-2031
+Longboat Key,Florida,false,1342
+Long Branch,New Jersey,true,-600
+Longmont,Colorado,true,-631
+Long Pond,Pennsylvania,true,-1616
+Longs,South Carolina,true,-1045
+Longview,Texas,true,-616
+Longview,Washington,true,-886
+Longwood,Florida,true,-569
+Lookout Mountain,Georgia,true,-759
+Loomis,California,true,-1927
+Lopez Island,Washington,true,-735
+Lorain,Ohio,true,-452
+Lorena,Texas,true,-732
+Lorton,Virginia,true,-426
+Los Alamos,California,true,-755
+Los Altos,California,true,-1095
+Los Altos Hills,California,true,-487
+Los Angeles,California,true,-1206
+Los Angeles County,California,true,-215
+Los Cerrillos,New Mexico,true,-530
+Los Gatos,California,true,-565
+Los Lunas,New Mexico,true,-81
+Los Ranchos De Albuquerque,New Mexico,true,-1158
+Lost City,West Virginia,true,-1270
+Loudon,Tennessee,true,-1303
+Loudonville,Ohio,true,-997
+Louisa,Virginia,true,-504
+Louisville,Colorado,true,-935
+Louisville,Kentucky,false,142
+Louisville,Tennessee,true,-1212
+Loveland,Colorado,true,-1007
+Loveland,Ohio,true,-797
+Lovettsville,Virginia,true,-753
+Lowell,Arkansas,false,89
+Lowell,Massachusetts,true,-433
+Lower Township,New Jersey,true,-1380
+Loxahatchee,Florida,true,-88
+Lubbock,Texas,true,-456
+Lubec,Maine,true,-603
+Ludington,Michigan,true,-990
+Ludlow,Kentucky,true,-353
+Ludlow,Vermont,false,768
+Lufkin,Texas,true,-429
+Lummi Island,Washington,true,-417
+Luray,Virginia,true,-1198
+Lusby,Maryland,true,-643
+Lutsen,Minnesota,true,-2363
+Lutz,Florida,true,-431
+Lynchburg,Virginia,true,-383
+Lynden,Washington,true,-578
+Lyndhurst,Virginia,true,-1149
+Lyndon,Vermont,true,-2711
+Lynn,Massachusetts,true,-961
+Lynn Haven,Florida,true,-1065
+Lynnwood,Washington,true,-1179
+Lyons,Colorado,true,-398
+Maalaea,Hawaii,true,-1378
+Mabank,Texas,true,-365
+Mableton,Georgia,false,281
+Macon,Georgia,true,-239
+Macon,North Carolina,true,-864
+Madeira Beach,Florida,false,943
+Madera,California,true,-120
+Madison,Alabama,true,-649
+Madison,Connecticut,true,-1596
+Madison,Indiana,true,-171
+Madison,New Hampshire,true,-1386
+Madison,Ohio,true,-1057
+Madison,Virginia,true,-2262
+Madison,Wisconsin,true,-598
+Madison Heights,Michigan,true,-875
+Madisonville,Kentucky,false,437
+Maggie Valley,North Carolina,true,-1029
+Magnolia,Texas,true,-816
+Maineville,Ohio,true,-923
+Maitland,Florida,true,-531
+Malakoff,Texas,true,-1099
+Malden,Massachusetts,true,-901
+Malibu,California,true,-8660
+Malone,New York,false,481
+Mamaroneck,New York,true,-1356
+Mammoth Cave,Kentucky,true,-991
+Mammoth Lakes,California,false,94
+Manasquan,New Jersey,true,-497
+Manassas,Virginia,true,-223
+Mancelona,Michigan,true,-880
+Manchaca,Texas,true,-831
+Manchester,California,true,-2694
+Manchester,Connecticut,true,-1
+Manchester,New Hampshire,true,-763
+Manchester,Tennessee,true,-993
+Manchester,Vermont,true,-1107
+Mancos,Colorado,true,-868
+Mandeville,Louisiana,true,-369
+Manhattan,Kansas,true,-618
+Manhattan,Montana,true,-330
+Manhattan Beach,California,true,-1460
+Manheim,Pennsylvania,true,-560
+Manistee,Michigan,true,-414
+Manistique,Michigan,true,-1925
+Manitou Beach-devils Lake,Michigan,true,-380
+Manitou Springs,Colorado,true,-1290
+Manitowish Waters,Wisconsin,false,604
+Manitowoc,Wisconsin,true,-763
+Mankato,Minnesota,true,-820
+Manor,Texas,true,-423
+Mansfield,Ohio,true,-290
+Mansfield,Texas,true,-836
+Manson,Washington,true,-2401
+Manteca,California,true,-387
+Manteo,North Carolina,true,-1370
+Many,Louisiana,true,-694
+Manzanita,Oregon,true,-863
+Maple City,Michigan,true,-1595
+Maple Valley,Washington,true,-407
+Marana,Arizona,true,-408
+Marathon,Florida,false,911
+Marathon,Texas,true,-221
+Marble,North Carolina,true,-906
+Marble Falls,Texas,true,-390
+Marblehead,Massachusetts,true,-2164
+Marco Island,Florida,false,1586
+Marfa,Texas,true,-936
+Margaretville,New York,true,-1134
+Margate,Florida,true,-367
+Margate City,New Jersey,true,-1435
+Maricopa,Arizona,true,-248
+Marietta,Georgia,true,-468
+Marietta,New York,true,-1698
+Marietta,Ohio,true,-379
+Marina,California,false,534
+Marina Del Rey,California,true,-1219
+Marion,Illinois,true,-147
+Marion,Indiana,false,255
+Marion,Iowa,true,-777
+Marion,North Carolina,true,-1120
+Marion,Texas,true,-492
+Mariposa,California,true,-969
+Markleeville,California,true,-955
+Marlinton,West Virginia,true,-270
+Marquette,Michigan,true,-959
+Marshall,Arkansas,true,-348
+Marshall,California,true,-571
+Marshall,Michigan,true,-695
+Marshall,North Carolina,true,-1471
+Marshfield,Massachusetts,true,-1245
+Marshfield,Wisconsin,true,-690
+Mars Hill,North Carolina,true,-1365
+Martin,Georgia,true,-863
+Martin,Tennessee,true,-49
+Martin City,Montana,true,-1290
+Martindale,Texas,true,-1554
+Martinez,California,true,-284
+Martinez,Georgia,false,1293
+Martinsburg,West Virginia,true,-766
+Martinsville,Virginia,true,-419
+Mary Esther,Florida,false,330
+Marysville,California,true,-1179
+Marysville,Washington,true,-1117
+Maryville,Missouri,false,23
+Maryville,Tennessee,true,-326
+Mashpee,Massachusetts,true,-2303
+Mason,Ohio,true,-349
+Mason,Texas,true,-418
+Massanutten,Virginia,true,-829
+Massillon,Ohio,true,-766
+Mastic Beach,New York,true,-1184
+Matagorda,Texas,true,-453
+Mathias,West Virginia,true,-569
+Matlacha,Florida,true,-957
+Mattawa,Washington,true,-1388
+Matthews,North Carolina,true,-536
+Mattituck,New York,true,-2623
+Maunaloa,Hawaii,true,-147
+Mauston,Wisconsin,true,-938
+Mayfield,New York,true,-2675
+Maysville,Kentucky,true,-419
+Mayville,New York,true,-673
+Mazama,Washington,false,110
+Mcalester,Oklahoma,true,-483
+Mcallen,Texas,true,-324
+Mcarthur,Ohio,true,-1653
+Mccall,Idaho,true,-1169
+Mccaysville,Georgia,true,-1235
+Mccloud,California,false,61
+Mccurtain County,Oklahoma,true,-1068
+Mcdonough,Georgia,true,-197
+Mcgaheysville,Virginia,true,-848
+Mchenry,Maryland,true,-2587
+Mckee,Kentucky,true,-327
+Mckenzie Bridge,Oregon,true,-1078
+Mckinleyville,California,true,-584
+Mckinney,Texas,true,-769
+Mclean,Virginia,true,-1842
+Mcminnville,Oregon,true,-1562
+Mcminnville,Tennessee,true,-507
+Mcqueeney,Texas,true,-1559
+Mead,Oklahoma,true,-96
+Meadows Of Dan,Virginia,true,-1276
+Meadview,Arizona,true,-387
+Mears,Michigan,true,-573
+Mechanicsburg,Pennsylvania,true,-619
+Medford,Massachusetts,true,-932
+Medford,Oregon,true,-1056
+Media,Pennsylvania,true,-25
+Medicine Park,Oklahoma,true,-470
+Medina,Ohio,true,-707
+Meeker,Colorado,true,-622
+Melbourne,Florida,true,-267
+Melbourne Beach,Florida,false,338
+Melrose,Florida,false,1023
+Melrose,Massachusetts,true,-623
+Memphis,Tennessee,true,-639
+Mena,Arkansas,true,-95
+Menasha,Wisconsin,true,-1269
+Mendocino,California,true,-421
+Mendon,Vermont,true,-484
+Menifee,California,false,274
+Menlo Park,California,true,-416
+Mentone,Alabama,true,-972
+Merced,California,true,-238
+Mercer Island,Washington,true,-2044
+Mercersburg,Pennsylvania,true,-722
+Meredith,New Hampshire,true,-1506
+Meridian,Idaho,true,-739
+Merrillan,Wisconsin,true,-1208
+Merritt Island,Florida,true,-400
+Mesa,Arizona,true,-113
+Mesa,Colorado,false,365
+Mesquite,Nevada,false,39
+Mesquite,Texas,true,-1465
+Metairie,Louisiana,true,-700
+Mexico Beach,Florida,true,-18
+Miami,Florida,true,-6172
+Miami Beach,Florida,true,-243
+Miami Gardens,Florida,false,226
+Miami Springs,Florida,false,381
+Micanopy,Florida,true,-239
+Michigan City,Indiana,true,-1570
+Middleburg,Florida,true,-408
+Middleburg,Virginia,true,-2291
+Middlebury,Indiana,true,-1050
+Middlebury,Vermont,false,387
+Middle Grove,New York,false,1770
+Middletown,California,false,461
+Middletown,Connecticut,true,-787
+Middletown,New York,true,-193
+Middletown,Ohio,true,-567
+Middletown,Rhode Island,true,-2290
+Middle Township,New Jersey,true,-1504
+Midland,Michigan,true,-1096
+Midland,Texas,true,-419
+Midlothian,Virginia,true,-1035
+Midpines,California,true,-444
+Midvale,Utah,true,-7939
+Midway,Georgia,true,-1021
+Midway,Kentucky,true,-1437
+Midway,Utah,true,-768
+Midway City,California,true,-365
+Midwest City,Oklahoma,true,-374
+Milbridge,Maine,true,-1009
+Miles City,Montana,true,-713
+Milford,Connecticut,true,-1103
+Milford,Delaware,true,-36
+Milford,New York,true,-506
+Millbrae,California,true,-413
+Millcreek,Utah,true,-254
+Milledgeville,Georgia,true,-441
+Millersburg,Ohio,true,-1026
+Millerton,New York,true,-1231
+Millinocket,Maine,true,-956
+Millsboro,Delaware,true,-21
+Mill Spring,North Carolina,true,-1472
+Mills River,North Carolina,true,-799
+Mill Valley,California,true,-675
+Millville,Delaware,true,-816
+Milpitas,California,true,-1243
+Milroy,Pennsylvania,true,-54
+Milton,Delaware,true,-879
+Milton,Florida,true,-637
+Milwaukee,Wisconsin,true,-764
+Milwaukie,Oregon,true,-972
+Mineola,Texas,true,-282
+Mineral,California,true,-593
+Mineral,Virginia,true,-385
+Mineral Bluff,Georgia,true,-1508
+Mineral Point,Wisconsin,true,-304
+Mineral Wells,Texas,true,-201
+Minneapolis,Minnesota,true,-754
+Minocqua,Wisconsin,true,-1401
+Minot,North Dakota,true,-125
+Minturn,Colorado,false,1159
+Miramar,Florida,true,-484
+Miramar Beach,Florida,false,111
+Miramonte,California,true,-741
+Miranda,California,true,-138
+Mishawaka,Indiana,true,-1403
+Mission,Kansas,true,-904
+Mission,Texas,true,-373
+Mission Viejo,California,true,-972
+Missoula,Montana,true,-804
+Missouri City,Texas,true,-822
+Mitchell,South Dakota,true,-645
+Mi-wuk Village,California,true,-341
+Moab,Utah,true,-454
+Mobile,Alabama,true,-353
+Moclips,Washington,true,-1312
+Modesto,California,true,-492
+Mohave Valley,Arizona,true,-225
+Moline,Illinois,true,-522
+Moneta,Virginia,true,-1314
+Monona,Wisconsin,true,-1674
+Monroe,Louisiana,true,-494
+Monroe,Michigan,true,-885
+Monroe,New York,true,-2104
+Monroe,Utah,true,-799
+Monroe,Washington,true,-216
+Monroe,Wisconsin,true,-550
+Monrovia,California,true,-865
+Montague,Michigan,true,-604
+Montara,California,true,-436
+Montauk,New York,true,-4003
+Montclair,New Jersey,true,-659
+Monteagle,Tennessee,true,-957
+Montebello,California,true,-721
+Montecito,California,true,-3226
+Monterey,California,true,-1143
+Monterey,Massachusetts,true,-1670
+Monterey Park,California,false,68
+Monte Rio,California,true,-540
+Montgomery,Alabama,true,-365
+Montgomery,New York,true,-1289
+Montgomery,Texas,true,-1021
+Montgomery,Vermont,false,550
+Monticello,Florida,true,-567
+Monticello,Indiana,true,-1228
+Monticello,Kentucky,true,-905
+Monticello,New York,true,-1360
+Monticello,Utah,true,-184
+Montour Falls,New York,true,-1064
+Montpelier,Vermont,true,-168
+Montrose,Colorado,true,-885
+Montross,Virginia,true,-1648
+Monument,Colorado,true,-702
+Moore,Oklahoma,true,-451
+Moorefield,West Virginia,false,21
+Mooresville,North Carolina,true,-1210
+Moorhead,Minnesota,true,-936
+Moravian Falls,North Carolina,true,-420
+Morehead,Kentucky,true,-587
+Morehead City,North Carolina,true,-714
+Moreno Valley,California,true,-237
+Moretown,Vermont,true,-603
+Morgan Hill,California,true,-1873
+Morganton,Georgia,true,-1236
+Morganton,North Carolina,true,-542
+Morgantown,Indiana,false,105
+Morgantown,West Virginia,true,-788
+Morongo Valley,California,true,-316
+Morrilton,Arkansas,true,-351
+Morrison,Colorado,true,-1314
+Morriston,Florida,true,-328
+Morristown,Vermont,true,-168
+Morrisville,North Carolina,true,-160
+Morro Bay,California,true,-684
+Moscow,Idaho,true,-349
+Moses Lake,Washington,true,-1196
+Mosier,Oregon,true,-823
+Moss Beach,California,true,-21
+Moss Landing,California,true,-354
+Moss Point,Mississippi,true,-149
+Moultonborough,New Hampshire,false,1455
+Mountain,Wisconsin,true,-709
+Mountain City,Tennessee,true,-1040
+Mountain Home,Arkansas,true,-397
+Mountain Rest,South Carolina,true,-712
+Mountain View,Arkansas,true,-293
+Mountain View,California,true,-1212
+Mountain View,Hawaii,true,-540
+Mountain Village,Colorado,false,11829
+Mount Airy,North Carolina,true,-603
+Mount Clemens,Michigan,true,-866
+Mount Desert,Maine,true,-1501
+Mount Dora,Florida,true,-109
+Mount Holly,North Carolina,true,-604
+Mount Holly,Vermont,true,-179
+Mount Hood Village,Oregon,true,-586
+Mount Horeb,Wisconsin,true,-501
+Mount Ida,Arkansas,true,-47
+Mount Jackson,Virginia,true,-693
+Mount Joy,Pennsylvania,true,-1701
+Mount Lemmon,Arizona,true,-831
+Mount Nebo,West Virginia,true,-895
+Mount Pleasant,South Carolina,true,-534
+Mount Pleasant,Utah,true,-409
+Mount Pocono,Pennsylvania,true,-1145
+Mount Shasta,California,true,-582
+Mount Tremper,New York,true,-969
+Mount Vernon,New York,true,-245
+Mount Vernon,Ohio,true,-333
+Mount Vernon,Texas,false,863
+Mount Vernon,Washington,true,-479
+Mouth Of Wilson,Virginia,true,-873
+Mt. Crested Butte,Colorado,true,-242
+Mt. Juliet,Tennessee,true,-819
+Muncie,Indiana,true,-1213
+Munds Park,Arizona,true,-1075
+Munising,Michigan,true,-988
+Murfreesboro,Arkansas,true,-61
+Murfreesboro,Tennessee,true,-728
+Murphy,North Carolina,true,-796
+Murphys,California,true,-716
+Murphysboro,Illinois,true,-273
+Murray,Kentucky,true,-717
+Murray,Utah,true,-429
+Murrells Inlet,South Carolina,true,-522
+Murrieta,California,true,-1540
+Muskegon,Michigan,true,-1125
+Myrtle Beach,South Carolina,true,-609
+Mystic,Connecticut,true,-785
+Naalehu,Hawaii,true,-388
+Nacogdoches,Texas,true,-142
+Nags Head,North Carolina,true,-840
+Nampa,Idaho,true,-748
+Nancy,Kentucky,true,-732
+Nantucket,Massachusetts,true,-3997
+Napa,California,true,-963
+Naperville,Illinois,true,-773
+Naples,Florida,false,439
+Naples,Maine,true,-1338
+Naples,New York,true,-253
+Narragansett,Rhode Island,true,-619
+Narrowsburg,New York,true,-1784
+Nashville,Indiana,true,-697
+Nashville,Tennessee,true,-1453
+Natchez,Mississippi,true,-510
+Natchitoches,Louisiana,true,-1397
+Nathrop,Colorado,true,-998
+National City,California,true,-627
+Nauvoo,Illinois,true,-1017
+Navajo County,Arizona,true,-854
+Navarre,Florida,false,77
+Navarre Beach,Florida,false,1140
+Navasota,Texas,true,-1264
+Nebo,North Carolina,true,-1885
+Necedah,Wisconsin,true,-890
+Nederland,Colorado,true,-1209
+Nederland,Texas,true,-551
+Needles,California,false,19
+Neenah,Wisconsin,true,-10
+Negaunee,Michigan,true,-1716
+Nehalem,Oregon,true,-1014
+Nekoosa,Wisconsin,true,-1434
+Nellysford,Virginia,true,-1863
+Nelsonville,Ohio,true,-569
+Neptune Beach,Florida,true,-1144
+Neptune City,New Jersey,true,-888
+Neptune Township,New Jersey,true,-2797
+Neskowin,Oregon,true,-1064
+Netarts,Oregon,true,-968
+Nevada City,California,true,-647
+Nevis,Minnesota,true,-318
+New Albany,Indiana,false,81
+Newark,California,true,-603
+Newark,Delaware,true,-393
+Newark,New Jersey,true,-192
+Newark,Ohio,true,-466
+New Auburn,Wisconsin,true,-2198
+Newaygo,Michigan,true,-1251
+New Bedford,Massachusetts,true,-1221
+Newberg,Oregon,true,-1264
+New Bern,North Carolina,true,-795
+Newberry,Michigan,true,-538
+New Braunfels,Texas,true,-382
+New Britain,Connecticut,true,-376
+New Brunswick,New Jersey,true,-568
+New Buffalo,Michigan,true,-1623
+Newburgh,Indiana,true,-883
+Newburgh,New York,true,-733
+Newbury,Massachusetts,true,-2692
+Newbury,New Hampshire,true,-1454
+Newburyport,Massachusetts,true,-2017
+Newcastle,Washington,true,-872
+New Castle,Colorado,true,-1258
+New Castle,Delaware,true,-257
+New Fairfield,Connecticut,true,-1312
+Newfane,Vermont,true,-557
+Newfield,New York,true,-1711
+New Haven,Connecticut,true,-445
+New Holland,Pennsylvania,true,-226
+New Hope,Pennsylvania,true,-1114
+New Iberia,Louisiana,true,-161
+Newland,North Carolina,true,-1012
+New Lisbon,Wisconsin,true,-583
+New London,Connecticut,true,-905
+New London,New Hampshire,true,-1812
+New London,North Carolina,true,-611
+New Market,Virginia,true,-994
+New Marlborough,Massachusetts,true,-3424
+New Milford,Connecticut,true,-1102
+Newnan,Georgia,true,-731
+New Orleans,Louisiana,false,30
+New Paltz,New York,true,-975
+New Plymouth,Ohio,true,-2102
+Newport,Kentucky,true,-135
+Newport,North Carolina,true,-1040
+Newport,Oregon,true,-1275
+Newport,Rhode Island,true,-1544
+Newport,Tennessee,true,-668
+Newport,Vermont,true,-219
+Newport,Washington,true,-411
+Newport Beach,California,true,-1294
+Newport News,Virginia,true,-637
+New Port Richey,Florida,true,-112
+New River,Arizona,true,-468
+New Rochelle,New York,true,-823
+Newry,Maine,false,1412
+New Shoreham,Rhode Island,true,-1289
+New Smyrna Beach,Florida,false,619
+New Tazewell,Tennessee,true,-793
+Newton,Massachusetts,true,-1369
+Newtown,Connecticut,true,-1730
+New York,New York,true,-1148
+Niagara Falls,New York,true,-655
+Nice,California,false,189
+Niceville,Florida,true,-1424
+Niles,Michigan,false,392
+Nine Mile Falls,Washington,true,-614
+Ninilchik,Alaska,true,-258
+Nipomo,California,true,-373
+Nisswa,Minnesota,true,-1064
+Nixa,Missouri,true,-333
+Noblesville,Indiana,true,-1516
+Nogales,Arizona,true,-220
+Nokomis,Florida,false,390
+Norcross,Georgia,true,-405
+Norfolk,Virginia,true,-724
+Normal,Illinois,true,-97
+Norman,Oklahoma,true,-378
+North Adams,Massachusetts,true,-837
+Northampton,Massachusetts,true,-662
+North Augusta,South Carolina,false,1695
+North Bay Village,Florida,true,-263
+North Beach,Maryland,true,-1348
+North Bend,Oregon,true,-708
+North Bend,Washington,true,-1521
+North Bergen,New Jersey,true,-484
+North Canton,Ohio,true,-646
+North Cape May,New Jersey,true,-2280
+North Charleston,South Carolina,true,-443
+North Conway,New Hampshire,true,-1385
+North Creek,New York,false,188
+North East,Maryland,false,916
+North East,Pennsylvania,true,-517
+Northfield,Minnesota,true,-205
+Northfield,Vermont,true,-489
+North Fork,California,true,-787
+North Fort Myers,Florida,true,-233
+Northglenn,Colorado,true,-506
+North Hollywood,California,true,-973
+North Kingstown,Rhode Island,true,-1226
+North Las Vegas,Nevada,true,-442
+North Lauderdale,Florida,false,354
+North Little Rock,Arkansas,true,-418
+North Logan,Utah,true,-1015
+North Miami,Florida,true,-1536
+North Miami Beach,Florida,true,-116
+North Myrtle Beach,South Carolina,true,-736
+North Palm Beach,Florida,true,-86
+North Pole,Alaska,true,-400
+Northport,Alabama,true,-604
+Northport,Maine,true,-1349
+Northport,Michigan,true,-988
+North Port,Florida,true,-81
+North Redington Beach,Florida,false,572
+North Richland Hills,Texas,true,-888
+North River,New York,true,-916
+North Salt Lake,Utah,true,-803
+North Tonawanda,New York,true,-995
+North Topsail Beach,North Carolina,true,-567
+North Truro,Massachusetts,false,1093
+North Utica,Illinois,true,-689
+Northville,New York,true,-1780
+North Wildwood,New Jersey,true,-1152
+Norton Shores,Michigan,true,-1778
+Norwalk,California,true,-600
+Norwalk,Connecticut,true,-1119
+Norwalk,Ohio,true,-645
+Norway,Maine,true,-1377
+Norwich,Connecticut,true,-706
+Norwich,New York,true,-665
+Novato,California,true,-413
+Nyack,New York,true,-1169
+Oak Bluffs,Massachusetts,true,-758
+Oak Creek,Colorado,true,-417
+Oakdale,California,true,-864
+Oak Grove,Kentucky,true,-1494
+Oak Harbor,Ohio,true,-36
+Oak Harbor,Washington,true,-1301
+Oak Hill,West Virginia,true,-1096
+Oakhurst,California,true,-721
+Oak Island,North Carolina,true,-1396
+Oakland,California,true,-573
+Oakland,Maine,true,-290
+Oakland,Maryland,true,-2101
+Oakland Park,Florida,true,-640
+Oak Park,Illinois,true,-296
+Oak Park,Michigan,true,-806
+Oakridge,Oregon,true,-700
+Oak Ridge,Tennessee,true,-651
+Oak View,California,false,414
+Oberlin,Ohio,true,-262
+Ocala,Florida,true,-241
+Occidental,California,false,207
+Ocean Beach,New York,true,-2214
+Ocean City,Maryland,true,-279
+Ocean City,New Jersey,true,-2114
+Ocean Grove,New Jersey,true,-1231
+Ocean Isle Beach,North Carolina,true,-785
+Oceano,California,true,-1273
+Ocean Park,Washington,true,-368
+Ocean Pines,Maryland,true,-677
+Ocean Shores,Washington,true,-1018
+Oceanside,California,true,-894
+Oceanside,Oregon,true,-507
+Ocean Springs,Mississippi,true,-684
+Ocean View,Delaware,true,-173
+Ocean View,Hawaii,true,-475
+Ocklawaha,Florida,true,-383
+Ocoee,Florida,true,-155
+Oconomowoc,Wisconsin,true,-4130
+Oconto,Wisconsin,true,-1280
+Ocracoke,North Carolina,false,152
+Odessa,Florida,true,-496
+Odessa,Texas,true,-438
+Ogallala,Nebraska,true,-339
+Ogden,Utah,true,-351
+Ogunquit,Maine,true,-558
+Ohiopyle,Pennsylvania,true,-511
+Ojai,California,true,-761
+Okaloosa Island,Florida,false,409
+Okanogan County,Washington,false,197
+Okeechobee,Florida,false,151
+Oklahoma City,Oklahoma,true,-527
+Olathe,Kansas,false,44
+Old Forge,New York,true,-329
+Old Fort,North Carolina,true,-943
+Old Lyme,Connecticut,true,-1947
+Old Orchard Beach,Maine,true,-1412
+Old Saybrook,Connecticut,false,112
+Oldsmar,Florida,true,-111
+Old Town,Florida,false,49
+Olean,New York,true,-303
+Olga,Washington,true,-1615
+Olivebridge,New York,true,-2089
+Oliver Springs,Tennessee,true,-469
+Olympia,Washington,true,-772
+Olympic Valley,California,false,922
+Omaha,Arkansas,true,-1129
+Omaha,Nebraska,true,-654
+Onalaska,Texas,true,-1196
+Onalaska,Wisconsin,true,-1077
+Onancock,Virginia,true,-901
+Oneida,Tennessee,true,-451
+Onekama,Michigan,true,-921
+Oneonta,New York,false,340
+Ontario,California,true,-149
+Ontonagon,Michigan,true,-1241
+Ooltewah,Tennessee,true,-403
+Opelika,Alabama,true,-1240
+Orange,California,true,-807
+Orange,Virginia,true,-607
+Orange Beach,Alabama,false,514
+Orange City,Florida,true,-385
+Orange County,California,true,-1141
+Orange Park,Florida,true,-989
+Orderville,Utah,true,-878
+Oregon City,Oregon,true,-950
+Orem,Utah,true,-348
+Orick,California,false,18
+Oriental,North Carolina,true,-1434
+Orinda,California,true,-1052
+Orland,Maine,true,-1202
+Orlando,Florida,true,-57
+Orleans,Massachusetts,true,-439
+Ormond Beach,Florida,true,-213
+Oro Valley,Arizona,true,-85
+Oroville,California,true,-244
+Oroville,Washington,true,-1180
+Osage Beach,Missouri,true,-1061
+Osceola County,Florida,true,-1161
+Oscoda,Michigan,true,-822
+Oshkosh,Wisconsin,true,-20
+Osprey,Florida,false,764
+Ossipee,New Hampshire,true,-1233
+Oswego,New York,true,-212
+Otis,Massachusetts,true,-751
+Ottawa,Illinois,true,-916
+Ottertail,Minnesota,true,-1443
+Otto,North Carolina,true,-742
+Ouray,Colorado,true,-1284
+Overland Park,Kansas,true,-747
+Ovid,New York,true,-1278
+Oviedo,Florida,false,87
+Owego,New York,true,-508
+Owensboro,Kentucky,true,-551
+Owls Head,Maine,true,-1668
+Oxford,Maryland,true,-1770
+Oxford,Mississippi,true,-818
+Oxford,Ohio,false,287
+Oxford,Wisconsin,true,-1253
+Oxnard,California,true,-1172
+Oxon Hill,Maryland,false,965
+Ozark,Arkansas,false,20
+Ozark,Missouri,true,-730
+Pacific,Missouri,true,-189
+Pacifica,California,true,-1491
+Pacific Beach,Washington,true,-166
+Pacific City,Oregon,true,-1598
+Pacific Grove,California,true,-1212
+Packwood,Washington,true,-1141
+Paducah,Kentucky,true,-231
+Page,Arizona,true,-347
+Pagosa Springs,Colorado,true,-488
+Pāhoa,Hawaii,true,-255
+Pahrump,Nevada,false,204
+Paia,Hawaii,true,-1898
+Paicines,California,true,-695
+Pajaro Dunes,California,true,-2024
+Palacios,Texas,true,-898
+Palatka,Florida,true,-11
+Palenville,New York,true,-4825
+Palestine,Texas,true,-643
+Palisade,Colorado,true,-390
+Palm Bay,Florida,true,-95
+Palm Beach,Florida,false,53
+Palm Beach Gardens,Florida,true,-692
+Palm City,Florida,true,-1044
+Palm Coast,Florida,true,-289
+Palmdale,California,true,-549
+Palm Desert,California,false,1126
+Palmer,Alaska,true,-906
+Palmer Lake,Colorado,true,-1261
+Palmetto,Florida,false,222
+Palmetto,Georgia,true,-1650
+Palm Harbor,Florida,false,173
+Palm Springs,California,false,16
+Palmyra,Pennsylvania,true,-904
+Palo Alto,California,true,-1251
+Palomar Mountain,California,true,-1208
+Panacea,Florida,true,-167
+Panama City,Florida,true,-177
+Panama City Beach,Florida,true,-141
+Panguitch,Utah,true,-339
+Paonia,Colorado,true,-389
+Papaikou,Hawaii,true,-319
+Paradise,Pennsylvania,true,-385
+Paradise Valley,Arizona,true,-2464
+Paris,Kentucky,true,-555
+Paris,Texas,true,-331
+Park City,Utah,false,2591
+Parker,Arizona,true,-1217
+Parker,Colorado,true,-2344
+Park Falls,Wisconsin,true,-1243
+Park Hill,Oklahoma,true,-770
+Park Rapids,Minnesota,true,-1203
+Parks,Arizona,true,-497
+Parksville,New York,true,-956
+Parma,Ohio,true,-568
+Parowan,Utah,true,-637
+Pasadena,California,true,-876
+Pasadena,Maryland,true,-382
+Pasadena,Texas,true,-206
+Pasco,Washington,false,134
+Paso Robles,California,true,-620
+Pass Christian,Mississippi,true,-318
+Patagonia,Arizona,false,463
+Patchogue,New York,true,-2286
+Paterson,New Jersey,true,-658
+Pawhuska,Oklahoma,true,-698
+Pawleys Island,South Carolina,true,-528
+Pawtucket,Rhode Island,true,-741
+Payson,Arizona,true,-583
+Peachtree City,Georgia,true,-1055
+Pearland,Texas,false,67
+Pella,Iowa,true,-197
+Pembroke Pines,Florida,false,44
+Pendleton,Oregon,true,-527
+Pendleton,South Carolina,true,-1432
+Peninsula,Ohio,true,-1594
+Penn Yan,New York,true,-1275
+Penrose,North Carolina,true,-840
+Pensacola,Florida,true,-115
+Pensacola Beach,Florida,true,-86
+Pentwater,Michigan,true,-1022
+Peoria,Arizona,true,-565
+Peoria,Illinois,true,-338
+Peoria Heights,Illinois,true,-585
+Pepin,Wisconsin,true,-594
+Pequot Lakes,Minnesota,true,-1789
+Perdido Key,Florida,false,1253
+Perris,California,true,-727
+Perry,Florida,true,-1127
+Perry,Georgia,false,74
+Perry,New York,false,440
+Perrysburg,Ohio,true,-276
+Perryville,Missouri,true,-302
+Peru,Vermont,true,-671
+Peshastin,Washington,true,-1596
+Petaluma,California,true,-947
+Petersburg,Alaska,false,560
+Petersburg,Virginia,true,-548
+Peterstown,West Virginia,true,-526
+Petoskey,Michigan,true,-1320
+Peyton,Colorado,true,-1332
+Pflugerville,Texas,true,-461
+Pharr,Texas,true,-677
+Phelps,Wisconsin,true,-1136
+Phenix City,Alabama,true,-97
+Philadelphia,Pennsylvania,true,-472
+Philipsburg,Montana,true,-939
+Philipstown,New York,true,-991
+Phillips,Wisconsin,true,-432
+Philo,California,true,-1294
+Philomath,Oregon,true,-552
+Phippsburg,Maine,true,-1461
+Phoenicia,New York,true,-1410
+Phoenix,Arizona,true,-391
+Phoenixville,Pennsylvania,true,-230
+Pickens,South Carolina,true,-1159
+Pico Rivera,California,true,-607
+Pierre,South Dakota,true,-1334
+Pigeon,Michigan,true,-1730
+Pigeon Forge,Tennessee,true,-2297
+Pikeville,Kentucky,true,-256
+Pikeville,Tennessee,true,-401
+Pinckney,Michigan,true,-1102
+Pine,Arizona,true,-999
+Pine,Colorado,true,-1512
+Pine Bluff,Arkansas,true,-167
+Pine Bush,New York,true,-1647
+Pine City,Minnesota,true,-886
+Pinedale,Wyoming,true,-826
+Pinehurst,North Carolina,true,-739
+Pine Knoll Shores,North Carolina,true,-9770
+Pinellas Park,Florida,false,78
+Pine Mountain,Georgia,true,-420
+Pine Mountain Club,California,true,-877
+Pine Plains,New York,true,-2284
+Pine Ridge,Kentucky,true,-944
+Pinetop,Arizona,true,-1069
+Pinetop-lakeside,Arizona,true,-711
+Pineville,Louisiana,true,-428
+Pineville,North Carolina,true,-1484
+Piney Creek,North Carolina,true,-834
+Piney Flats,Tennessee,true,-1326
+Pioneer,California,true,-306
+Pioneertown,California,true,-765
+Pipe Creek,Texas,true,-274
+Pisgah Forest,North Carolina,true,-713
+Pismo Beach,California,true,-884
+Pittsboro,North Carolina,true,-559
+Pittsburg,Missouri,true,-614
+Pittsburg,New Hampshire,true,-168
+Pittsburg,Texas,true,-616
+Pittsburgh,Pennsylvania,true,-798
+Pittsfield,Massachusetts,true,-970
+Pittsfield,Vermont,true,-344
+Pittsford,New York,true,-1011
+Placentia,California,true,-1609
+Placerville,California,true,-574
+Placida,Florida,false,807
+Placitas,New Mexico,true,-1082
+Plano,Texas,true,-1180
+Plantation,Florida,true,-913
+Plant City,Florida,true,-361
+Plattsburgh,New York,true,-817
+Pleasant Grove,Utah,true,-528
+Pleasant Hill,California,true,-456
+Pleasanton,California,true,-1380
+Plymouth,California,true,-1475
+Plymouth,Massachusetts,true,-451
+Plymouth,Michigan,true,-17
+Plymouth,New Hampshire,true,-371
+Plymouth,Vermont,false,531
+Plymouth,Wisconsin,true,-1547
+Pocatello,Idaho,true,-350
+Pocono Lake,Pennsylvania,true,-2246
+Pocono Pines,Pennsylvania,true,-1857
+Pocono Summit,Pennsylvania,true,-1986
+Point Arena,California,true,-1224
+Point Pleasant Beach,New Jersey,true,-2227
+Point Reyes Station,California,true,-722
+Point Roberts,Washington,true,-1180
+Point Venture,Texas,true,-1003
+Poipu,Hawaii,true,-303
+Polk County,Florida,true,-938
+Pollock Pines,California,true,-1181
+Polson,Montana,true,-1460
+Pomona,California,true,-578
+Pompano Beach,Florida,false,54
+Ponca,Arkansas,false,367
+Ponca City,Oklahoma,true,-246
+Ponce Inlet,Florida,false,1362
+Ponchatoula,Louisiana,false,233
+Ponte Vedra Beach,Florida,true,-79
+Pontiac,Michigan,true,-410
+Pooler,Georgia,true,-210
+Poplar Bluff,Missouri,true,-451
+Poplarville,Mississippi,true,-712
+Portage,Indiana,true,-405
+Portage,Michigan,true,-1327
+Port Angeles,Washington,true,-964
+Port Aransas,Texas,true,-1580
+Port Arthur,Texas,true,-395
+Port Austin,Michigan,true,-456
+Port Charlotte,Florida,true,-41
+Port Clinton,Ohio,true,-544
+Porterville,California,true,-654
+Port Hueneme,California,true,-659
+Port Huron,Michigan,true,-729
+Port Isabel,Texas,false,67
+Portland,Maine,true,-1898
+Portland,Oregon,true,-655
+Port Lavaca,Texas,false,137
+Port Ludlow,Washington,true,-859
+Port Matilda,Pennsylvania,true,-1457
+Port O'connor,Texas,true,-1095
+Portola,California,true,-487
+Port Orange,Florida,false,271
+Port Orchard,Washington,true,-1051
+Port Orford,Oregon,true,-1055
+Port Richey,Florida,true,-159
+Port Royal,South Carolina,true,-1175
+Port Saint Joe,Florida,false,465
+Port Saint Lucie,Florida,true,-49
+Portsmouth,New Hampshire,true,-1514
+Portsmouth,Rhode Island,true,-2073
+Portsmouth,Virginia,true,-259
+Port Townsend,Washington,true,-307
+Port Washington,Wisconsin,true,-524
+Post Falls,Idaho,true,-1300
+Potosi,Missouri,true,-508
+Potsdam,New York,true,-310
+Pottsboro,Texas,true,-824
+Poughkeepsie,New York,true,-466
+Poulsbo,Washington,true,-830
+Poway,California,false,84
+Powder Springs,Georgia,true,-361
+Powell Butte,Oregon,true,-3022
+Prairie Village,Kansas,true,-793
+Prattsville,New York,true,-798
+Prattville,Alabama,true,-246
+Pray,Montana,true,-1005
+Prescott,Arizona,true,-706
+Prescott Valley,Arizona,true,-308
+Presque Isle,Wisconsin,true,-150
+Princeton,Illinois,true,-472
+Princeton,New Jersey,true,-2354
+Princeville,Hawaii,true,-931
+Prineville,Oregon,true,-373
+Prospect,Kentucky,true,-1990
+Prosperity,South Carolina,true,-390
+Prosser,Washington,true,-225
+Providence,Rhode Island,true,-563
+Provincetown,Massachusetts,true,-1609
+Provo,Utah,true,-738
+Pueblo,Colorado,true,-472
+Pueblo West,Colorado,false,68
+Pulaski,New York,true,-1003
+Pullman,Michigan,true,-941
+Pullman,Washington,false,251
+Punta Gorda,Florida,true,-289
+Purcellville,Virginia,true,-311
+Purlear,North Carolina,true,-1099
+Put-in-bay,Ohio,true,-456
+Putnam Valley,New York,true,-3727
+Putney,Vermont,true,-748
+Puyallup,Washington,true,-750
+Quarryville,Pennsylvania,true,-404
+Queen Creek,Arizona,false,8
+Queens,New York,true,-1620
+Queensbury,New York,true,-2714
+Quincy,Illinois,true,-752
+Quincy,Massachusetts,true,-305
+Quincy,Washington,true,-1630
+Quinlan,Texas,true,-880
+Quitman,Texas,false,392
+Rabun Gap,Georgia,true,-1293
+Racine,Wisconsin,true,-881
+Radford,Virginia,true,-1185
+Raleigh,North Carolina,true,-377
+Ramona,California,true,-549
+Rancho Cordova,California,true,-258
+Rancho Cucamonga,California,true,-774
+Rancho Mirage,California,true,-1316
+Rancho Palos Verdes,California,false,510
+Rancho Santa Fe,California,true,-2945
+Ranchos De Taos,New Mexico,true,-195
+Rancho Viejo,Texas,true,-512
+Randle,Washington,true,-1047
+Randolph,Vermont,true,-449
+Rangeley,Maine,true,-1201
+Rapid City,Michigan,true,-2348
+Rapid City,South Dakota,true,-988
+Rapid River,Michigan,true,-941
+Rathdrum,Idaho,false,173
+Raymond,Maine,false,152
+Reading,Pennsylvania,true,-17
+Red Bluff,California,true,-5
+Reddick,Florida,true,-202
+Redding,California,true,-435
+Redding,Connecticut,true,-1238
+Red Hook,New York,true,-947
+Redington Beach,Florida,true,-51
+Redington Shores,Florida,false,720
+Redlands,California,true,-445
+Red Lodge,Montana,true,-1336
+Redmond,Oregon,true,-502
+Redmond,Washington,true,-1073
+Redondo Beach,California,true,-866
+Red River,New Mexico,true,-713
+Red Wing,Minnesota,true,-1281
+Redwood City,California,true,-830
+Reeds Spring,Missouri,true,-1125
+Reedville,Virginia,true,-2037
+Rehoboth Beach,Delaware,true,-143
+Reno,Nevada,true,-839
+Renton,Washington,true,-765
+Reston,Virginia,true,-1064
+Reunion,Florida,false,207
+Revere,Massachusetts,true,-717
+Rexburg,Idaho,true,-349
+Rhinebeck,New York,true,-1837
+Rhinelander,Wisconsin,true,-837
+Rhododendron,Oregon,true,-650
+Rice Lake,Wisconsin,true,-1215
+Richardson,Texas,true,-847
+Richfield Springs,New York,true,-511
+Richfield Township,Michigan,true,-350
+Richland,Washington,true,-610
+Richland Center,Wisconsin,true,-1189
+Richmond,California,true,-388
+Richmond,Indiana,true,-315
+Richmond,Kentucky,true,-97
+Richmond,Texas,true,-660
+Richmond,Vermont,true,-49
+Richmond,Virginia,true,-406
+Richmond Hill,Georgia,true,-797
+Ridgecrest,California,true,-276
+Ridgedale,Missouri,true,-2097
+Ridgefield,Washington,true,-1487
+Ridgeway,South Carolina,true,-936
+Ridgway,Colorado,true,-788
+Rigby,Idaho,true,-689
+Riggins,Idaho,true,-361
+Rileyville,Virginia,true,-938
+Ringgold,Georgia,true,-391
+Rio Hondo,Texas,true,-191
+Rio Rancho,New Mexico,true,-1071
+Ripton,Vermont,true,-511
+Rising Fawn,Georgia,true,-738
+Riverdale,Georgia,true,-527
+Riverhead,New York,true,-1476
+Riverside,California,true,-981
+Riverton,Utah,false,1303
+Riverton,Wyoming,true,-914
+Riverview,Florida,true,-147
+Riviera Beach,Florida,false,613
+Roach,Missouri,true,-1088
+Roan Mountain,Tennessee,true,-674
+Roanoke,Virginia,true,-215
+Robbinsville,North Carolina,true,-666
+Rocheport,Missouri,true,-941
+Rochester,Minnesota,true,-801
+Rochester,New York,true,-501
+Rochester,Vermont,false,721
+Rockaway Beach,Missouri,true,-485
+Rockaway Beach,Oregon,true,-1040
+Rockbridge,Ohio,true,-1585
+Rockford,Illinois,true,-394
+Rock Hall,Maryland,true,-1618
+Rock Hill,South Carolina,true,-218
+Rock Island,Illinois,true,-595
+Rockland,Maine,true,-1510
+Rockledge,Florida,true,-64
+Rocklin,California,true,-1314
+Rockport,Maine,true,-2457
+Rockport,Massachusetts,true,-1504
+Rockport,Texas,true,-445
+Rock Springs,Wyoming,true,-419
+Rockville,Maryland,true,-324
+Rockwall,Texas,true,-1176
+Rockwood,Maine,false,50
+Rockwood,Pennsylvania,true,-254
+Rocky Mount,Missouri,true,-1478
+Rocky Mount,North Carolina,true,-390
+Rodanthe,North Carolina,true,-1646
+Rogers,Arkansas,true,-795
+Rogers,Kentucky,true,-779
+Rogersville,Alabama,true,-267
+Rolla,Missouri,true,-318
+Rome,Georgia,true,-573
+Romulus,New York,true,-2188
+Ronald,Washington,true,-1822
+Ronks,Pennsylvania,true,-1078
+Roscoe,New York,true,-1496
+Roscommon,Michigan,true,-833
+Roseburg,Oregon,true,-287
+Rosedale,Maryland,true,-288
+Roseland,Virginia,true,-1308
+Rosemary Beach,Florida,false,764
+Rosemead,California,true,-240
+Rosenberg,Texas,true,-260
+Rosendale,New York,true,-1550
+Roseville,California,true,-551
+Roslyn,Washington,true,-2003
+Rosman,North Carolina,true,-1624
+Rossville,Georgia,true,-703
+Roswell,Georgia,true,-906
+Roswell,New Mexico,true,-142
+Rotonda West,Florida,false,149
+Round Rock,Texas,true,-540
+Round Top,Texas,true,-131
+Rowland Heights,California,false,148
+Rowlett,Texas,true,-873
+Roxbury,New York,true,-1118
+Royal,Arkansas,true,-1946
+Royal Oak,Michigan,true,-754
+Royal Palm Beach,Florida,false,90
+Ruckersville,Virginia,true,-878
+Ruidoso,New Mexico,true,-1252
+Rumford,Maine,true,-1093
+Running Springs,California,true,-411
+Ruskin,Florida,true,-69
+Russell Springs,Kentucky,true,-539
+Russellville,Arkansas,true,-48
+Ruston,Louisiana,true,-328
+Rutherfordton,North Carolina,true,-958
+Rutland,Vermont,true,-751
+Rye,New Hampshire,true,-2499
+Saco,Maine,true,-1321
+Sacramento,California,true,-574
+Safety Harbor,Florida,true,-73
+Sag Harbor,New York,true,-3843
+Saginaw,Michigan,true,-323
+Sagle,Idaho,true,-2562
+Sahuarita,Arizona,true,-509
+Saint Albans,West Virginia,true,-699
+Saint Anthony,Idaho,true,-717
+Saint Augustine,Florida,true,-189
+Saint Augustine Beach,Florida,false,407
+Saint Charles,Illinois,true,-779
+Saint Charles,Missouri,true,-636
+Saint Cloud,Florida,true,-192
+Saint George,Maine,true,-538
+Saint George,Utah,true,-194
+Saint George Island,Florida,false,328
+Saint Germain,Wisconsin,true,-23380
+Saint Helena,California,true,-3826
+Saint Helena Island,South Carolina,true,-636
+Saint Ignace,Michigan,true,-566
+Saint James,Missouri,true,-464
+Saint James City,Florida,true,-1627
+Saint Jo,Texas,false,577
+Saint Joe,Arkansas,true,-418
+Saint Johnsbury,Vermont,true,-788
+Saint Joseph,Michigan,true,-94
+Saint Joseph,Missouri,true,-572
+Saint Leonard,Maryland,true,-1425
+Saint Louis,Missouri,true,-834
+Saint Marys,Georgia,true,-19
+Saint Michaels,Maryland,true,-687
+Saint Paul,Minnesota,true,-437
+Saint Pete Beach,Florida,false,901
+Saint Petersburg,Florida,false,134
+Saint Simons,Georgia,false,35
+Saint Simons Island,Georgia,true,-353
+Salem,Massachusetts,true,-2097
+Salem,Missouri,true,-261
+Salem,Oregon,true,-521
+Salem,South Carolina,true,-1198
+Salida,Colorado,true,-497
+Salina,Kansas,true,-297
+Salinas,California,false,220
+Salisbury,Connecticut,true,-522
+Salisbury,Maryland,true,-505
+Salisbury,Massachusetts,true,-2008
+Salisbury,North Carolina,true,-904
+Salmon,Idaho,true,-1159
+Salt Lake City,Utah,true,-269
+Saluda,North Carolina,true,-1087
+Salvo,North Carolina,false,12
+Sammamish,Washington,true,-717
+San Angelo,Texas,true,-479
+San Anselmo,California,true,-89
+San Antonio,Texas,true,-513
+San Bernardino,California,true,-550
+San Bruno,California,true,-297
+San Carlos,California,true,-1110
+San Clemente,California,true,-723
+San Diego,California,true,-726
+San Dimas,California,true,-803
+Sandpoint,Idaho,true,-700
+Sandusky,Ohio,true,-985
+Sandwich,Massachusetts,true,-1495
+Sandy,Oregon,true,-769
+Sandy,Utah,false,433
+Sandy Springs,Georgia,true,-33
+Sanford,Florida,false,46
+Sanford,North Carolina,true,-523
+San Francisco,California,true,-803
+San Gabriel,California,true,-354
+Sanibel,Florida,false,2406
+San Jose,California,true,-652
+San Juan Capistrano,California,true,-1030
+San Leandro,California,true,-650
+San Leon,Texas,true,-1053
+San Luis Obispo,California,true,-574
+San Marcos,California,true,-1011
+San Marcos,Texas,true,-416
+San Mateo,California,true,-1132
+San Miguel,California,true,-301
+San Rafael,California,true,-1380
+San Ramon,California,true,-1591
+San Saba,Texas,true,-23
+Santa Ana,California,true,-511
+Santa Barbara,California,true,-923
+Santa Clara,California,true,-892
+Santa Clara,Utah,true,-1271
+Santa Clarita,California,true,-414
+Santa Cruz,California,true,-535
+Santa Fe,New Mexico,true,-1410
+Santa Margarita,California,true,-145
+Santa Maria,California,true,-363
+Santa Monica,California,true,-1229
+San Tan Valley,Arizona,false,11
+Santa Rosa,California,true,-1375
+Santa Rosa Beach,Florida,true,-84
+Santa Ynez,California,true,-3595
+Sapphire,North Carolina,true,-1824
+Saranac Lake,New York,true,-979
+Sarasota,Florida,false,603
+Saratoga,California,true,-925
+Saratoga,Wyoming,true,-846
+Saratoga Springs,New York,true,-1524
+Saratoga Springs,Utah,true,-388
+Satellite Beach,Florida,false,256
+Saugatuck,Michigan,true,-1294
+Saugerties,New York,true,-1437
+Sault Ste. Marie,Michigan,true,-511
+Sausalito,California,true,-1274
+Sautee Nacoochee,Georgia,true,-975
+Savanna,Illinois,true,-549
+Savannah,Georgia,true,-594
+Savannah,Tennessee,true,-639
+Sawyer,Michigan,true,-1247
+Sayville,New York,false,2285
+Scarborough,Maine,true,-1611
+Schaumburg,Illinois,true,-1153
+Schenectady,New York,true,-424
+Schertz,Texas,false,494
+Schroon Lake,New York,true,-1193
+Scituate,Massachusetts,true,-413
+Scottsbluff,Nebraska,true,-450
+Scottsboro,Alabama,true,-4
+Scottsdale,Arizona,true,-391
+Scotts Valley,California,true,-670
+Scottsville,Kentucky,true,-1037
+Scottsville,Virginia,true,-899
+Scranton,Pennsylvania,false,158
+Sea Bright,New Jersey,true,-2009
+Seabrook,Texas,true,-334
+Seabrook Island,South Carolina,true,-61
+Seacrest,Florida,true,-722
+Seacrest Beach,Florida,true,-1093
+Sea Isle City,New Jersey,true,-1950
+Seal Beach,California,true,-562
+Seal Rock,Oregon,true,-857
+Sea Ranch,California,true,-2
+Searcy,Arkansas,true,-253
+Seaside,California,true,-352
+Seaside,Oregon,true,-454
+Seaside Heights,New Jersey,true,-1763
+Seaside Park,New Jersey,true,-1111
+Seatac,Washington,true,-496
+Seattle,Washington,true,-944
+Sebastian,Florida,true,-217
+Sebastopol,California,true,-1027
+Sebring,Florida,true,-64
+Sedalia,Missouri,true,-308
+Sedona,Arizona,true,-160
+Sedro-woolley,Washington,true,-214
+Seeley Lake,Montana,true,-386
+Seffner,Florida,true,-359
+Seguin,Texas,true,-1139
+Selbyville,Delaware,false,287
+Selinsgrove,Pennsylvania,true,-205
+Selma,Alabama,true,-613
+Seminole,Florida,true,-207
+Semora,North Carolina,true,-2321
+Seneca,South Carolina,true,-1407
+Seneca Falls,New York,true,-77
+Senoia,Georgia,true,-384
+Sequim,Washington,true,-942
+Seven Devils,North Carolina,true,-1252
+Sevier County,Tennessee,true,-2397
+Sevierville,Tennessee,true,-2252
+Sewanee,Tennessee,true,-299
+Seward,Alaska,false,286
+Seymour,Tennessee,true,-593
+Shaftsbury,Vermont,true,-559
+Shaker Heights,Ohio,true,-970
+Shalimar,Florida,true,-254
+Shandaken,New York,true,-977
+Sharon,Connecticut,true,-1505
+Shasta County,California,true,-302
+Shasta Lake,California,false,1164
+Shaver Lake,California,true,-529
+Shawano,Wisconsin,true,-564
+Shawnee,Kansas,true,-540
+Sheboygan,Wisconsin,true,-1442
+Sheffield,Massachusetts,true,-1156
+Shelburne,Vermont,true,-494
+Shelburne Falls,Massachusetts,true,-1182
+Shelby,Michigan,true,-2840
+Shelbyville,Kentucky,true,-535
+Shelbyville,Tennessee,true,-272
+Shell Knob,Missouri,true,-525
+Shelter Island,New York,true,-3547
+Shelton,Washington,true,-973
+Shenandoah,Virginia,true,-1674
+Shepherdstown,West Virginia,true,-922
+Sheridan,Wyoming,true,-613
+Sherman,Texas,true,-256
+Sherrills Ford,North Carolina,true,-1146
+Sherwood,Arkansas,true,-549
+Sherwood,Oregon,true,-1241
+Shingletown,California,true,-219
+Ship Bottom,New Jersey,true,-1330
+Shipshewana,Indiana,true,-562
+Shirley,New York,true,-1429
+Shoreline,Washington,true,-743
+Shorewood,Wisconsin,true,-1187
+Show Low,Arizona,true,-1063
+Shreveport,Louisiana,true,-514
+Sierra Vista,Arizona,true,-137
+Siesta Key,Florida,false,1328
+Signal Mountain,Tennessee,true,-1020
+Siloam Springs,Arkansas,true,-367
+Silt,Colorado,true,-1101
+Silver City,New Mexico,true,-464
+Silver Spring,Maryland,true,-379
+Silverthorne,Colorado,false,452
+Silverton,Colorado,true,-29
+Silverton,Oregon,true,-529
+Simi Valley,California,true,-1155
+Simpsonville,South Carolina,true,-309
+Sioux City,Iowa,true,-357
+Sioux Falls,South Dakota,true,-1020
+Sister Bay,Wisconsin,true,-1443
+Sisters,Oregon,true,-1013
+Sitka,Alaska,false,271
+Six Mile,South Carolina,true,-485
+Skaneateles,New York,true,-1923
+Skokie,Illinois,true,-348
+Skyforest,California,true,-1217
+Skykomish,Washington,true,-973
+Sky Valley,Georgia,true,-1436
+Slade,Kentucky,true,-338
+Slaty Fork,West Virginia,true,-547
+Slidell,Louisiana,true,-784
+Smallwood,New York,true,-971
+Smithfield,Utah,true,-521
+Smith River,California,true,-523
+Smithville,Tennessee,true,-1461
+Smithville,Texas,false,85
+Smyrna,Georgia,true,-587
+Smyrna,Tennessee,false,396
+Sneads Ferry,North Carolina,true,-902
+Snellville,Georgia,true,-416
+Snohomish,Washington,true,-667
+Snoqualmie Pass,Washington,false,997
+Snowmass Village,Colorado,false,3458
+Snowshoe,West Virginia,true,-137
+Soda Springs,California,false,463
+Soddy-daisy,Tennessee,true,-901
+Sodus Point,New York,true,-955
+Solana Beach,California,true,-1653
+Soldotna,Alaska,false,5318
+Solitude,Utah,false,1213
+Solvang,California,true,-101
+Somers,Montana,true,-1726
+Somerset,Kentucky,true,-1003
+Somerset,Pennsylvania,true,-714
+Somers Point,New Jersey,true,-1840
+Somerville,Massachusetts,true,-324
+Somerville,Texas,true,-113
+Sonoita,Arizona,true,-725
+Sonoma,California,true,-1393
+Sonora,California,true,-225
+Soquel,California,true,-95
+Southampton,New York,true,-4128
+Southaven,Mississippi,true,-400
+South Bend,Indiana,true,-1263
+South Bloomingville,Ohio,true,-759
+South Burlington,Vermont,true,-1064
+South Daytona,Florida,true,-175
+Southern Pines,North Carolina,true,-127
+Southern Shores,North Carolina,true,-1639
+South Euclid,Ohio,true,-282
+Southfield,Michigan,true,-929
+South Fork,Colorado,true,-405
+South Gate,California,true,-265
+South Haven,Michigan,true,-1615
+South Hero,Vermont,false,849
+South Jordan,Utah,true,-635
+South Kingstown,Rhode Island,true,-872
+South Lake Tahoe,California,true,-408
+South Miami,Florida,true,-522
+Southold,New York,true,-3666
+South Padre Island,Texas,true,-649
+South Pasadena,California,true,-382
+Southport,North Carolina,true,-414
+South Portland,Maine,true,-540
+South Salt Lake,Utah,true,-457
+South San Francisco,California,true,-361
+Southwest Harbor,Maine,true,-1806
+Sparks,Nevada,true,-698
+Sparta,Georgia,true,-819
+Sparta,North Carolina,true,-896
+Sparta,Tennessee,true,-511
+Spartanburg,South Carolina,true,-389
+Spearfish,South Dakota,true,-944
+Speculator,New York,true,-1046
+Speedway,Indiana,false,143
+Spencer,Tennessee,true,-602
+Sperry,Oklahoma,true,-809
+Sperryville,Virginia,true,-1132
+Spicewood,Texas,true,-274
+Spirit Lake,Iowa,true,-587
+Spokane,Washington,true,-508
+Spokane Valley,Washington,true,-732
+Spooner,Wisconsin,true,-974
+Spotsylvania Courthouse,Virginia,true,-986
+Spring,Texas,true,-662
+Spring Branch,Texas,true,-17
+Spring City,Tennessee,true,-1276
+Spring City,Utah,true,-648
+Springdale,Arkansas,true,-406
+Springdale,Utah,false,222
+Springfield,Illinois,true,-464
+Springfield,Kentucky,true,-707
+Springfield,Massachusetts,true,-659
+Springfield,Missouri,true,-442
+Springfield,Ohio,true,-78
+Springfield,Oregon,true,-301
+Springfield,Virginia,true,-369
+Spring Hill,Florida,true,-89
+Spring Hill,Tennessee,true,-1199
+Spring Lake,Michigan,true,-686
+Spring Lake,New Jersey,true,-2744
+Spring Mills,Pennsylvania,true,-1098
+Spring Valley,California,true,-707
+Springville,California,true,-402
+Springville,Tennessee,true,-709
+Springville,Utah,true,-465
+Spruce Pine,North Carolina,true,-1792
+Squaw Valley,California,true,-579
+Staatsburg,New York,true,-1638
+Stafford,Virginia,true,-120
+Stafford Township,New Jersey,true,-1601
+Stamford,Connecticut,true,-1082
+Stamford,New York,true,-1093
+Stanardsville,Virginia,true,-605
+Standish,Maine,true,-1133
+Stanley,Idaho,false,543
+Stanley,Virginia,true,-919
+Stanton,California,true,-130
+Stanton,Kentucky,true,-370
+Stanwood,Michigan,true,-1406
+Stanwood,Washington,true,-1988
+Starkville,Mississippi,true,-766
+Star Valley Ranch,Wyoming,true,-1575
+State College,Pennsylvania,false,846
+Stateline,Nevada,true,-358
+Staten Island,New York,true,-1058
+Statesboro,Georgia,true,-250
+Statesville,North Carolina,true,-829
+Staunton,Virginia,true,-1025
+Steamboat Springs,Colorado,false,3107
+Steelville,Missouri,true,-368
+Ste. Genevieve,Missouri,true,-259
+Steinhatchee,Florida,true,-486
+Stephenville,Texas,true,-288
+Sterling,Alaska,true,-574
+Sterling,Virginia,true,-1113
+Steubenville,Ohio,true,-314
+Stevenson,Washington,true,-591
+Stevens Point,Wisconsin,true,-916
+Stevensville,Maryland,true,-1535
+Stevensville,Michigan,true,-742
+Stevensville,Montana,true,-54
+Stigler,Oklahoma,true,-531
+Stillwater,Minnesota,true,-1422
+Stillwater,Oklahoma,true,-461
+Stinson Beach,California,true,-3303
+Stockbridge,Georgia,true,-892
+Stockbridge,Massachusetts,true,-2684
+Stockbridge,Vermont,false,1175
+Stockton,California,true,-124
+Stockton,Missouri,true,-360
+Stockton Springs,Maine,true,-1503
+Stonecrest,Georgia,true,-517
+Stone Harbor,New Jersey,false,762
+Stone Lake,Wisconsin,true,-1009
+Stone Mountain,Georgia,true,-336
+Stone Ridge,New York,true,-2603
+Stonewall,Texas,true,-485
+Stonington,Connecticut,true,-1048
+Stonington,Maine,true,-377
+Stowe,Vermont,true,-241
+Strasburg,Pennsylvania,true,-964
+Strasburg,Virginia,true,-1012
+Stratford,Connecticut,true,-1158
+Stratton,Vermont,false,779
+Strawberry,Arizona,true,-528
+Strawberry,California,true,-173
+Stroudsburg,Pennsylvania,true,-979
+Stuart,Florida,false,1644
+Sturgeon Bay,Wisconsin,true,-1629
+Sturgis,South Dakota,true,-1635
+Suches,Georgia,true,-704
+Suffolk,Virginia,true,-313
+Sugarcreek,Ohio,true,-813
+Sugar Grove,North Carolina,true,-1492
+Sugar Grove,Ohio,true,-1668
+Sugar Land,Texas,true,-49
+Sugarloaf,California,true,-188
+Sugar Mountain,North Carolina,true,-349
+Sullivan,Maine,true,-1426
+Sulphur,Louisiana,true,-551
+Sulphur,Oklahoma,true,-483
+Summerfield,Florida,true,-54
+Summerland,California,true,-1656
+Summerland Key,Florida,false,1457
+Summersville,West Virginia,true,-343
+Summerton,South Carolina,false,16
+Summerville,South Carolina,true,-296
+Sumter,South Carolina,true,-465
+Sunapee,New Hampshire,true,-880
+Sun City,Arizona,false,29
+Sun City West,Arizona,false,375
+Sundance,Utah,true,-4355
+Sun Lakes,Arizona,false,456
+Sunny Isles Beach,Florida,true,-99
+Sunnyvale,California,true,-1006
+Sunrise,Florida,true,-638
+Sunrise Beach,Missouri,true,-1901
+Sunriver,Oregon,true,-1982
+Sunset Beach,North Carolina,true,-349
+Sun Valley,Idaho,true,-822
+Superior,Wisconsin,true,-1185
+Surf City,New Jersey,true,-2446
+Surf City,North Carolina,true,-1053
+Surfside,Florida,false,608
+Surfside Beach,South Carolina,true,-29
+Surfside Beach,Texas,true,-1102
+Surprise,Arizona,true,-217
+Surry,Maine,true,-1246
+Sussex County,Delaware,false,792
+Sutter Creek,California,true,-1043
+Suttons Bay,Michigan,true,-1816
+Suwanee,Georgia,true,-1013
+Swampscott,Massachusetts,true,-3880
+Swan Lake,New York,true,-1635
+Swannanoa,North Carolina,true,-746
+Swansboro,North Carolina,true,-1038
+Swanton,Maryland,true,-3755
+Sylva,North Carolina,true,-937
+Sylvan Beach,New York,true,-1385
+Syracuse,Indiana,true,-955
+Syracuse,New York,true,-1499
+Tabernash,Colorado,true,-507
+Tacoma,Washington,true,-685
+Tafton,Pennsylvania,true,-3382
+Tahlequah,Oklahoma,true,-375
+Tahoe City,California,true,-50
+Tahoe Vista,California,false,79
+Tahoma,California,true,-968
+Tahuya,Washington,true,-759
+Takoma Park,Maryland,true,-638
+Talkeetna,Alaska,true,-391
+Talladega,Alabama,true,-223
+Tallahassee,Florida,true,-402
+Tallassee,Tennessee,true,-793
+Tamarac,Florida,true,-425
+Tampa,Florida,true,-413
+Tamworth,New Hampshire,true,-891
+Tannersville,New York,true,-1710
+Tannersville,Pennsylvania,false,4
+Taos,New Mexico,true,-637
+Taos Ski Valley,New Mexico,false,1785
+Tarpon Springs,Florida,true,-310
+Tavares,Florida,true,-300
+Tavernier,Florida,false,237
+Tawas City,Michigan,true,-555
+Taylor,Texas,true,-620
+Taylors,South Carolina,true,-812
+Taylorsville,Kentucky,true,-689
+Taylorsville,Utah,true,-596
+Tazewell,Virginia,true,-188
+Teaneck,New Jersey,true,-975
+Teasdale,Utah,false,245
+Tehachapi,California,true,-810
+Tellico Plains,Tennessee,true,-756
+Telluride,Colorado,false,29
+Temecula,California,true,-1362
+Tempe,Arizona,true,-505
+Temple,Texas,true,-436
+Temple City,California,true,-1250
+Temple Hills,Maryland,true,-305
+Templeton,California,true,-1074
+Ten Mile,Tennessee,true,-1207
+Terlingua,Texas,true,-149
+Terra Alta,West Virginia,true,-1523
+Terrebonne,Oregon,true,-128
+Terre Haute,Indiana,true,-672
+Tetonia,Idaho,true,-1035
+Teton Village,Wyoming,false,1373
+Texarkana,Arkansas,true,-137
+Texarkana,Texas,true,-804
+The Bronx,New York,true,-804
+The Colony,Texas,true,-563
+The Dalles,Oregon,true,-877
+The Plains,Virginia,true,-1433
+Thermal,California,false,2578
+Thermopolis,Wyoming,true,-696
+The Village,Oklahoma,true,-743
+The Villages,Florida,false,383
+The Woodlands,Texas,false,2
+Thibodaux,Louisiana,true,-91
+Thomas,West Virginia,false,151
+Thomasville,Georgia,true,-619
+Thompson,Pennsylvania,true,-636
+Thompson's Station,Tennessee,true,-2174
+Thompsonville,Michigan,true,-804
+Thornton,Colorado,true,-750
+Thornton,New Hampshire,true,-555
+Thornville,Ohio,true,-60
+Thousand Oaks,California,true,-714
+Thousand Palms,California,true,-37
+Three Oaks,Michigan,true,-1590
+Three Rivers,California,true,-530
+Tickfaw,Louisiana,true,-512
+Ticonderoga,New York,false,15
+Tidioute,Pennsylvania,false,186
+Tigard,Oregon,true,-991
+Tiger,Georgia,true,-808
+Tillamook,Oregon,true,-1044
+Tilton,New Hampshire,false,284
+Tisbury,Massachusetts,true,-1501
+Titusville,Florida,true,-83
+Tiverton,Rhode Island,true,-1780
+Tivoli,New York,true,-1686
+Tobyhanna,Pennsylvania,true,-1100
+Tobyhanna Township,Pennsylvania,true,-1593
+Toccoa,Georgia,true,-843
+Todd,North Carolina,true,-1164
+Tofte,Minnesota,true,-1907
+Tok,Alaska,true,-658
+Toledo,Ohio,true,-273
+Tomahawk,Wisconsin,true,-849
+Tomball,Texas,true,-621
+Tombstone,Arizona,true,-313
+Tonawanda,New York,true,-1116
+Tool,Texas,true,-690
+Topanga,California,true,-1247
+Topeka,Kansas,true,-533
+Topsail Beach,North Carolina,true,-2384
+Topton,North Carolina,true,-1793
+Toquerville,Utah,true,-600
+Torrance,California,true,-704
+Torrey,Utah,false,444
+Town Of Rockingham,Vermont,true,-813
+Townsend,Georgia,true,-679
+Townsend,Tennessee,true,-979
+Township Of Taylorsville,North Carolina,true,-403
+Townville,South Carolina,true,-1047
+Tracy,California,true,-168
+Tracy City,Tennessee,true,-900
+Travelers Rest,South Carolina,true,-646
+Traverse City,Michigan,true,-2075
+Treasure Island,Florida,false,1050
+Tremont,Maine,true,-1549
+Trenton,Georgia,true,-500
+Trenton,Maine,false,430
+Trinidad,California,false,77
+Trinidad,Colorado,true,-58
+Trinity,Texas,true,-687
+Tropic,Utah,false,153
+Troutdale,Oregon,true,-583
+Troutman,North Carolina,true,-1657
+Troy,Alabama,true,-238
+Troy,Montana,true,-562
+Troy,New York,true,-445
+Truckee,California,false,79
+Trumansburg,New York,true,-893
+Truro,Massachusetts,true,-2061
+Truth Or Consequences,New Mexico,true,-261
+Tryon,North Carolina,true,-1365
+Tubac,Arizona,true,-304
+Tuckasegee,North Carolina,true,-1404
+Tucker,Georgia,true,-556
+Tucson,Arizona,true,-59
+Tukwila,Washington,true,-965
+Tulare,California,true,-481
+Tullahoma,Tennessee,true,-870
+Tulsa,Oklahoma,true,-562
+Tunbridge,Vermont,true,-717
+Tupelo,Mississippi,true,-535
+Tupper Lake,New York,true,-1059
+Turlock,California,true,-140
+Tuscaloosa,Alabama,true,-9900
+Tustin,California,true,-210
+Twain Harte,California,true,-505
+Twentynine Palms,California,true,-504
+Twin Falls,Idaho,true,-697
+Twin Lakes,Colorado,true,-2000
+Twin Lakes,Wisconsin,true,-2198
+Twin Peaks,California,true,-1191
+Two Harbors,Minnesota,true,-1741
+Two Rivers,Wisconsin,true,-1128
+Tybee Island,Georgia,true,-649
+Tyler,Texas,true,-313
+Ukiah,California,true,-248
+Ulster Park,New York,true,-1921
+Underhill,Vermont,true,-666
+Union,New Jersey,true,-731
+Union,Washington,true,-932
+Union City,California,true,-427
+Union City,Georgia,true,-677
+Union City,New Jersey,true,-883
+Uniondale,New York,true,-476
+Union Pier,Michigan,true,-2802
+University City,Missouri,true,-791
+University Place,Washington,true,-809
+Upland,California,true,-868
+Upper Black Eddy,Pennsylvania,true,-1648
+Upper Darby,Pennsylvania,false,25
+Upper Jay,New York,true,-620
+Upper Marlboro,Maryland,true,-284
+Urbana,Illinois,true,-212
+Utica,New York,true,-386
+Utopia,Texas,true,-1017
+Uvalde,Texas,true,-428
+Vacaville,California,true,-81
+Vail,Arizona,false,681
+Vail,Colorado,false,1248
+Valatie,New York,true,-1704
+Valdez,Alaska,false,269
+Valdosta,Georgia,true,-321
+Vallejo,California,true,-249
+Valley Center,California,true,-227
+Valley Stream,New York,true,-67
+Valparaiso,Indiana,true,-798
+Valrico,Florida,true,-676
+Van Buren,Missouri,true,-516
+Vancouver,Washington,true,-829
+Vashon,Washington,true,-1430
+Venice,California,true,-976
+Venice,Florida,false,521
+Ventnor City,New Jersey,true,-1376
+Ventura,California,true,-504
+Vermilion,Ohio,true,-525
+Vernal,Utah,true,-398
+Vernon,California,false,1597
+Vernon Township,New Jersey,true,-944
+Vero Beach,Florida,false,516
+Verona,Wisconsin,true,-1584
+Versailles,Kentucky,false,24
+Vicksburg,Mississippi,true,-85
+Victor,Idaho,true,-1293
+Victor,West Virginia,true,-2230
+Victoria,Texas,true,-640
+Victorville,California,true,-708
+View Park-windsor Hills,California,true,-1816
+Vilas,North Carolina,true,-2097
+Village Of Four Seasons,Missouri,true,-704
+Villas,New Jersey,true,-1764
+Vineyard,Utah,true,-721
+Virgin,Utah,true,-358
+Virginia Beach,Virginia,true,-442
+Viroqua,Wisconsin,true,-521
+Visalia,California,true,-329
+Vista,California,true,-864
+Volcano,Hawaii,true,-502
+Wabash,Indiana,true,-655
+Wabasha,Minnesota,true,-443
+Wachapreague,Virginia,true,-1364
+Waco,Texas,true,-247
+Wading River,New York,true,-1814
+Waialua,Hawaii,false,320
+Waianae,Hawaii,true,-293
+Waikiki,Hawaii,true,-138
+Waikoloa,Hawaii,false,2553
+Waikoloa Beach Resort,Hawaii,true,-1421
+Waikoloa Village,Hawaii,true,-274
+Wailea,Hawaii,false,238
+Wailea-makena,Hawaii,false,199
+Wailuku,Hawaii,true,-1044
+Waimanalo,Hawaii,true,-1276
+Waimea,Hawaii,true,-1265
+Waitsfield,Vermont,false,980
+Wakefield,Michigan,true,-94
+Wakefield,New Hampshire,true,-838
+Wake Forest,North Carolina,true,-890
+Waldoboro,Maine,true,-982
+Waldorf,Maryland,true,-175
+Waldport,Oregon,true,-1857
+Waleska,Georgia,true,-1538
+Walker,Minnesota,true,-768
+Walker County,Georgia,true,-922
+Wallace,Idaho,true,-734
+Walland,Tennessee,true,-773
+Walla Walla,Washington,true,-971
+Wallingford,Connecticut,true,-572
+Wallkill,New York,true,-1255
+Walnut,California,false,263
+Walnut Creek,California,true,-808
+Walsenburg,Colorado,true,-460
+Waltham,Massachusetts,true,-779
+Walton,New York,true,-250
+Walton County,Florida,true,-760
+Wappingers Falls,New York,true,-1079
+Wardsboro,Vermont,true,-374
+Wareham,Massachusetts,true,-1365
+Warner Robins,Georgia,true,-625
+Warren,Michigan,true,-560
+Warren,Ohio,true,-528
+Warren,Pennsylvania,true,-388
+Warren,Rhode Island,true,-923
+Warren,Vermont,false,951
+Warrens,Wisconsin,true,-1564
+Warrensburg,New York,true,-1228
+Warrenton,Oregon,true,-965
+Warrenton,Virginia,true,-1722
+Warsaw,Indiana,true,-428
+Warsaw,Missouri,false,59
+Warwick,New York,true,-825
+Warwick,Rhode Island,true,-432
+Washburn,Wisconsin,true,-1490
+Washington,Connecticut,true,-2205
+Washington,District Of Columbia,true,-542
+Washington,Missouri,true,-625
+Washington,North Carolina,true,-1086
+Washington,Utah,true,-608
+"Washington, D.c.",District Of Columbia,true,-335
+Washougal,Washington,true,-341
+Wasilla,Alaska,true,-633
+Watauga County,North Carolina,true,-971
+Waterbury,Connecticut,true,-449
+Waterbury,Vermont,true,-1800
+Waterbury Center,Vermont,true,-432
+Waterford,Connecticut,true,-603
+Waterford,Virginia,true,-1374
+Waterloo,Iowa,true,-620
+Water Mill,New York,true,-1384
+Watersound,Florida,true,-627
+Watertown,Massachusetts,true,-566
+Watertown,South Dakota,true,-775
+Waterville Valley,New Hampshire,false,751
+Watervliet,Michigan,true,-90
+Watkins Glen,New York,true,-919
+Watkinsville,Georgia,true,-1533
+Watsonville,California,true,-357
+Waukegan,Illinois,true,-780
+Waupaca,Wisconsin,true,-175
+Wausau,Wisconsin,true,-1167
+Wautoma,Wisconsin,true,-1367
+Wauwatosa,Wisconsin,true,-447
+Waveland,Mississippi,true,-597
+Waves,North Carolina,true,-664
+Wawona,California,true,-1517
+Waxahachie,Texas,true,-505
+Waycross,Georgia,true,-508
+Waynesboro,Virginia,true,-1558
+Waynesville,Missouri,true,-209
+Waynesville,North Carolina,true,-995
+Weare,New Hampshire,false,120
+Weatherford,Texas,true,-412
+Weaverville,North Carolina,true,-1075
+Wedowee,Alabama,true,-1092
+Weedville,Pennsylvania,true,-514
+Weehawken,New Jersey,true,-3721
+Weeki Wachee,Florida,true,-236
+Wellfleet,Massachusetts,true,-602
+Wellington,Florida,true,-904
+Wellington,Kentucky,true,-1090
+Wells,Maine,true,-1316
+Wellsboro,Pennsylvania,true,-844
+Wellston,Michigan,true,-468
+Wenatchee,Washington,true,-402
+Weslaco,Texas,true,-398
+Wesley Chapel,Florida,true,-435
+West Allis,Wisconsin,true,-832
+West Branch,Michigan,true,-716
+Westbrook,Connecticut,true,-1030
+Westbrook,Maine,true,-1501
+West Cape May,New Jersey,true,-1629
+West Chester,Pennsylvania,true,-418
+West Chester Township,Ohio,true,-486
+Westcliffe,Colorado,true,-807
+West Columbia,South Carolina,true,-245
+West Covina,California,true,-931
+West Des Moines,Iowa,true,-832
+Westerly,Rhode Island,true,-2698
+Westerville,Ohio,true,-563
+Westfield,Indiana,true,-517
+Westfield,New York,true,-601
+Westfield,Vermont,false,613
+West Glacier,Montana,true,-1897
+Westhampton Beach,New York,true,-1406
+West Hartford,Connecticut,true,-362
+West Haven,Connecticut,true,-184
+West Hollywood,California,true,-1123
+West Jefferson,North Carolina,true,-702
+West Jordan,Utah,true,-125
+West Kill,New York,true,-1457
+West Lafayette,Indiana,true,-272
+Westlake Village,California,true,-165
+West Linn,Oregon,true,-1344
+West Milford,New Jersey,true,-1418
+Westminster,California,true,-577
+Westminster,Colorado,true,-952
+Westminster,South Carolina,true,-965
+West Monroe,Louisiana,true,-308
+Westmore,Vermont,true,-360
+West New York,New Jersey,true,-728
+West Olive,Michigan,true,-1687
+Weston,Florida,true,-281
+Weston,Vermont,true,-156
+West Orange,New Jersey,true,-235
+West Palm Beach,Florida,true,-27
+West Park,Florida,true,-402
+West Plains,Missouri,true,-260
+Westport,Connecticut,true,-3607
+Westport,Massachusetts,true,-1469
+Westport,Washington,true,-350
+West Richland,Washington,true,-622
+West Sacramento,California,true,-639
+West Stockbridge,Massachusetts,true,-2545
+West Tisbury,Massachusetts,true,-2342
+West Union,South Carolina,true,-1798
+West Valley City,Utah,true,-100
+West Windsor,Vermont,true,-148
+Westwood,California,true,-899
+West Yellowstone,Montana,false,658
+Wetumpka,Alabama,true,-396
+Weymouth,Massachusetts,true,-871
+Wheat Ridge,Colorado,true,-926
+White Bear Lake,Minnesota,true,-1376
+Whitefield,New Hampshire,true,-611
+Whitefish,Montana,true,-1536
+Whitehall,Michigan,true,-1458
+Whitehall,Montana,true,-330
+White Haven,Pennsylvania,true,-1003
+White Plains,New York,true,-1001
+White Salmon,Washington,true,-916
+White Stone,Virginia,true,-1027
+White Sulphur Springs,Montana,true,-290
+Whitethorn,California,true,-1066
+Whitingham,Vermont,true,-2286
+Whitmore Lake,Michigan,true,-1668
+Whitney,Texas,true,-503
+Whittier,California,true,-819
+Whittier,North Carolina,true,-740
+Whittington Township,Arkansas,true,-355
+Whitwell,Tennessee,true,-909
+Wichita,Kansas,true,-599
+Wichita Falls,Texas,true,-282
+Wickenburg,Arizona,false,135
+Wildwood,Florida,false,183
+Wildwood,Georgia,true,-421
+Wildwood,New Jersey,true,-1161
+Wildwood Crest,New Jersey,true,-1399
+Wilkes-barre,Pennsylvania,true,-602
+Willcox,Arizona,false,361
+Williams,Arizona,true,-264
+Williams Bay,Wisconsin,true,-2056
+Williamsburg,Michigan,true,-1822
+Williamsburg,Virginia,true,-61
+Williamson,West Virginia,true,-191
+Williamsport,Pennsylvania,true,-455
+Williamstown,Kentucky,true,-878
+Williamstown,Massachusetts,true,-997
+Willis,Texas,true,-303
+Williston,Florida,true,-341
+Willits,California,true,-311
+Willoughby,Ohio,true,-928
+Willow,Alaska,false,196
+Wills Point,Texas,false,5
+Wilmington,Delaware,true,-300
+Wilmington,New York,true,-811
+Wilmington,North Carolina,true,-713
+Wilmington,Ohio,true,-400
+Wilmington,Vermont,true,-321
+Wilson,Wyoming,true,-1473
+Wilton Manors,Florida,true,-122
+Wimberley,Texas,true,-548
+Winchester,California,false,168
+Winchester,Kentucky,true,-322
+Winchester,Tennessee,true,-1715
+Winchester,Virginia,true,-1284
+Windham,Maine,true,-1387
+Windham,New York,true,-955
+Windsor,California,true,-420
+Windsor,Colorado,true,-984
+Winhall,Vermont,false,430
+Winona,Minnesota,true,-300
+Winooski,Vermont,true,-568
+Winston-salem,North Carolina,true,-564
+Winter Garden,Florida,true,-118
+Wintergreen Resort,Virginia,true,-767
+Winter Haven,Florida,true,-71
+Winter Park,Colorado,false,855
+Winter Park,Florida,true,-498
+Winthrop,Massachusetts,true,-13
+Winthrop,Washington,true,-524
+Wisconsin Dells,Wisconsin,true,-1357
+Wishon,California,true,-545
+Woburn,Massachusetts,true,-2060
+Wofford Heights,California,true,-718
+Wolfeboro,New Hampshire,true,-1486
+Woodbridge,Virginia,true,-241
+Woodfin,North Carolina,true,-1520
+Woodinville,Washington,true,-1560
+Woodland,California,true,-136
+Woodland Park,Colorado,true,-980
+Woodside,California,true,-1519
+Woodstock,Georgia,true,-1011
+Woodstock,Maine,true,-934
+Woodstock,New Hampshire,true,-473
+Woodstock,New York,true,-1569
+Woodstock,Vermont,true,-1218
+Woodstock,Virginia,true,-858
+Wooster,Ohio,true,-329
+Worcester,Massachusetts,true,-203
+Wright City,Missouri,true,-1060
+Wrightsville Beach,North Carolina,true,-1547
+Wrightwood,California,true,-755
+Wurtsboro,New York,true,-1519
+Wylie,Texas,true,-347
+Wyoming,Michigan,true,-462
+Xenia,Ohio,true,-252
+Yachats,Oregon,true,-840
+Yakima,Washington,true,-290
+Yankton,South Dakota,true,-1206
+Yantis,Texas,true,-606
+Yarmouth,Maine,true,-1476
+Yarmouth,Massachusetts,true,-1621
+Yellow Springs,Ohio,true,-522
+Yonkers,New York,true,-406
+York,Maine,true,-1144
+York,Pennsylvania,true,-492
+Yosemite National Park,California,true,-134
+Young Harris,Georgia,true,-1138
+Youngstown,New York,false,18
+Youngstown,Ohio,true,-459
+Ypsilanti,Michigan,true,-554
+Yuba City,California,true,-742
+Yucca Valley,California,true,-685
+Yukon,Oklahoma,true,-225
+Yuma,Arizona,true,-380
+Zavalla,Texas,true,-397
+Zephyr Cove,Nevada,true,-1370
+Zephyrhills,Florida,true,-387
+Zirconia,North Carolina,true,-868

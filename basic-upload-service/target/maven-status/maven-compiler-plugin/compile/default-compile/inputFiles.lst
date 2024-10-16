@@ -1,0 +1,6 @@
+/home/jacob/dev/basic-upload/basic-upload-service/src/main/java/com/example/basicuploadservice/BasicUploadServiceApplication.java
+/home/jacob/dev/basic-upload/basic-upload-service/src/main/java/com/example/basicuploadservice/client/FileSaveClient.java
+/home/jacob/dev/basic-upload/basic-upload-service/src/main/java/com/example/basicuploadservice/client/ResourceClient.java
+/home/jacob/dev/basic-upload/basic-upload-service/src/main/java/com/example/basicuploadservice/config/WebConfig.java
+/home/jacob/dev/basic-upload/basic-upload-service/src/main/java/com/example/basicuploadservice/controller/FileUploadController.java
+/home/jacob/dev/basic-upload/basic-upload-service/src/main/java/com/example/basicuploadservice/service/FileUploadService.java

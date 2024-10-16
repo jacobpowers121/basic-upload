@@ -1,0 +1,7 @@
+com/example/basicuploadservice/service/FileUploadService.class
+com/example/basicuploadservice/BasicUploadServiceApplication.class
+com/example/basicuploadservice/controller/FileUploadController.class
+com/example/basicuploadservice/client/FileSaveClient.class
+com/example/basicuploadservice/config/WebConfig.class
+com/example/basicuploadservice/config/WebConfig$1.class
+com/example/basicuploadservice/client/ResourceClient.class

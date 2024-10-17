@@ -21,7 +21,7 @@ import java.util.logging.Logger;
 @Component
 public class FileSaveClient {
 
-    private static final String UPLOAD_DIRECTORY = "/home/jacob/dev/basic-upload/shared-volumes/uploaded_files"; // Make sure this matches your Docker volume
+    private static final String UPLOAD_DIRECTORY = "/Users/jacob.powers/dev/basic-upload/shared-volumes/uploaded_files"; // Make sure this matches your Docker volume
     private static final Logger logger = Logger.getLogger(FileSaveClient.class.getName());
     private final ServletContext servletContext;
 

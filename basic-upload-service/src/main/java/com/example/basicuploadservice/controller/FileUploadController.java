@@ -16,8 +16,11 @@ import java.util.List;
 @RequestMapping("/api")
 public class FileUploadController {
 
-    @Autowired
-    private FileUploadService fileUploadService;
+    private final FileUploadService fileUploadService;
+
+    public FileUploadController(FileUploadService fileUploadService) {
+        this.fileUploadService = fileUploadService;
+    }
 
     @PostMapping("/file")
     public ResponseEntity<String> uploadFile(@RequestParam("file") MultipartFile file) throws IOException {
